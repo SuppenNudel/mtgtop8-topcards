@@ -27,3 +27,5 @@ Features:
 - Board filter (mainboard/sideboard/both/either)
 - Numeric filters (minimum deck share and average copies)
 - Sortable columns
+- Per-card Scryfall link
+- Card image hover previews via Scryfall API

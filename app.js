@@ -11,6 +11,7 @@ const state = {
   loadedFormats: [],
   sortKey: "combinedShare",
   sortDir: "desc",
+  scryfallCache: new Map(),
 };
 
 const els = {
@@ -25,6 +26,11 @@ const els = {
   resetFilters: document.querySelector("#resetFilters"),
   emptyRowTpl: document.querySelector("#emptyRowTpl"),
   sortButtons: Array.from(document.querySelectorAll(".sort-btn")),
+};
+
+const preview = {
+  element: null,
+  activeCard: null,
 };
 
 function pct(value) {
@@ -42,6 +48,123 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function scryfallSearchUrl(cardname) {
+  const query = `!"${cardname}"`;
+  return `https://scryfall.com/search?q=${encodeURIComponent(query)}`;
+}
+
+function getCardImageUrl(cardData) {
+  if (cardData?.image_uris?.normal) {
+    return cardData.image_uris.normal;
+  }
+  if (Array.isArray(cardData?.card_faces)) {
+    for (const face of cardData.card_faces) {
+      if (face?.image_uris?.normal) {
+        return face.image_uris.normal;
+      }
+    }
+  }
+  return null;
+}
+
+function createPreviewElement() {
+  const container = document.createElement("div");
+  container.className = "card-preview hidden";
+  container.innerHTML = `
+    <p class="card-preview-title"></p>
+    <img class="card-preview-image" alt="" loading="lazy" />
+    <p class="card-preview-fallback">No image found.</p>
+  `;
+  document.body.append(container);
+  return container;
+}
+
+function movePreview(event) {
+  if (!preview.element || preview.element.classList.contains("hidden")) {
+    return;
+  }
+  const offset = 18;
+  const maxLeft = window.innerWidth - preview.element.offsetWidth - 10;
+  const maxTop = window.innerHeight - preview.element.offsetHeight - 10;
+  const left = Math.min(event.clientX + offset, Math.max(10, maxLeft));
+  const top = Math.min(event.clientY + offset, Math.max(10, maxTop));
+  preview.element.style.left = `${left}px`;
+  preview.element.style.top = `${top}px`;
+}
+
+function setPreviewContent(cardname, imageUrl) {
+  const title = preview.element.querySelector(".card-preview-title");
+  const image = preview.element.querySelector(".card-preview-image");
+  const fallback = preview.element.querySelector(".card-preview-fallback");
+
+  title.textContent = cardname;
+
+  if (imageUrl) {
+    image.src = imageUrl;
+    image.alt = `${cardname} preview`;
+    image.classList.remove("hidden");
+    fallback.classList.add("hidden");
+  } else {
+    image.removeAttribute("src");
+    image.alt = "";
+    image.classList.add("hidden");
+    fallback.classList.remove("hidden");
+  }
+}
+
+async function fetchScryfallCard(cardname) {
+  if (state.scryfallCache.has(cardname)) {
+    return state.scryfallCache.get(cardname);
+  }
+
+  const promise = (async () => {
+    const exactUrl = `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(cardname)}`;
+    const fuzzyUrl = `https://api.scryfall.com/cards/named?fuzzy=${encodeURIComponent(cardname)}`;
+
+    async function fetchNamed(url) {
+      const response = await fetch(url, { cache: "force-cache" });
+      if (!response.ok) {
+        return null;
+      }
+      const data = await response.json();
+      return {
+        imageUrl: getCardImageUrl(data),
+        cardUrl: data?.scryfall_uri || scryfallSearchUrl(cardname),
+      };
+    }
+
+    let result = await fetchNamed(exactUrl);
+    if (!result) {
+      result = await fetchNamed(fuzzyUrl);
+    }
+    if (!result) {
+      result = { imageUrl: null, cardUrl: scryfallSearchUrl(cardname) };
+    }
+    return result;
+  })().catch(() => ({ imageUrl: null, cardUrl: scryfallSearchUrl(cardname) }));
+
+  state.scryfallCache.set(cardname, promise);
+  return promise;
+}
+
+async function showPreviewFor(cardname, event) {
+  preview.activeCard = cardname;
+  setPreviewContent(cardname, null);
+  preview.element.classList.remove("hidden");
+  movePreview(event);
+
+  const result = await fetchScryfallCard(cardname);
+  if (preview.activeCard !== cardname) {
+    return;
+  }
+  setPreviewContent(cardname, result.imageUrl);
+}
+
+function hidePreview() {
+  preview.activeCard = null;
+  preview.element.classList.add("hidden");
 }
 
 function normalizeRows(formatName, jsonData) {
@@ -139,6 +262,64 @@ function wireEvents() {
       render();
     });
   }
+
+  preview.element = createPreviewElement();
+
+  els.tableBody.addEventListener("mouseover", (event) => {
+    const trigger = event.target.closest(".card-preview-trigger");
+    if (!trigger) {
+      return;
+    }
+    const cardname = trigger.dataset.cardname;
+    if (!cardname) {
+      return;
+    }
+    if (preview.activeCard === cardname) {
+      movePreview(event);
+      return;
+    }
+    showPreviewFor(cardname, event);
+  });
+
+  els.tableBody.addEventListener("mousemove", (event) => {
+    if (preview.activeCard) {
+      movePreview(event);
+    }
+  });
+
+  els.tableBody.addEventListener("mouseout", (event) => {
+    const fromTrigger = event.target.closest(".card-preview-trigger");
+    if (!fromTrigger) {
+      return;
+    }
+    const toEl = event.relatedTarget;
+    if (toEl && fromTrigger.contains(toEl)) {
+      return;
+    }
+    hidePreview();
+  });
+
+  els.tableBody.addEventListener("focusin", (event) => {
+    const trigger = event.target.closest(".card-preview-trigger");
+    if (!trigger) {
+      return;
+    }
+    const cardname = trigger.dataset.cardname;
+    if (!cardname) {
+      return;
+    }
+    const rect = trigger.getBoundingClientRect();
+    const pseudoEvent = { clientX: rect.left, clientY: rect.bottom };
+    showPreviewFor(cardname, pseudoEvent);
+  });
+
+  els.tableBody.addEventListener("focusout", (event) => {
+    const trigger = event.target.closest(".card-preview-trigger");
+    if (!trigger) {
+      return;
+    }
+    hidePreview();
+  });
 }
 
 function boardPasses(row, boardFilter) {
@@ -235,10 +416,19 @@ function updateSortButtonLabels() {
 }
 
 function rowHtml(row) {
+  const cardname = escapeHtml(row.cardname);
+  const format = escapeHtml(row.format);
+  const scryfallUrl = scryfallSearchUrl(row.cardname);
+
   return `
     <tr>
-      <td class="codeish">${escapeHtml(row.format)}</td>
-      <td>${escapeHtml(row.cardname)}</td>
+      <td class="codeish">${format}</td>
+      <td>
+        <div class="card-cell">
+          <button class="card-preview-trigger" type="button" data-cardname="${cardname}">${cardname}</button>
+          <a class="scryfall-link" href="${scryfallUrl}" target="_blank" rel="noopener noreferrer">Scryfall</a>
+        </div>
+      </td>
       <td>${pct(row.mainDecks)}</td>
       <td>${row.mainAvg.toFixed(1)}</td>
       <td>${pct(row.sideDecks)}</td>

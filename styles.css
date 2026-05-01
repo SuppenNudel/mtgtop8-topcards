@@ -220,6 +220,79 @@ td.codeish {
   font-size: 0.88rem;
 }
 
+.card-cell {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.card-preview-trigger {
+  border: none;
+  background: transparent;
+  color: var(--ink);
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+}
+
+.card-preview-trigger:hover,
+.card-preview-trigger:focus-visible {
+  color: var(--accent-2);
+  text-decoration: underline;
+}
+
+.scryfall-link {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.76rem;
+  text-decoration: none;
+  color: var(--accent);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.1rem 0.45rem;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.scryfall-link:hover,
+.scryfall-link:focus-visible {
+  color: var(--accent-2);
+  border-color: var(--accent-2);
+}
+
+.card-preview {
+  position: fixed;
+  z-index: 50;
+  width: min(280px, 70vw);
+  pointer-events: none;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fffaf2;
+  box-shadow: 0 14px 40px rgba(29, 26, 23, 0.2);
+  padding: 0.5rem;
+}
+
+.card-preview-title {
+  margin: 0 0 0.4rem;
+  font-size: 0.84rem;
+  color: var(--ink-soft);
+}
+
+.card-preview-image {
+  display: block;
+  width: 100%;
+  border-radius: 9px;
+}
+
+.card-preview-fallback {
+  margin: 0;
+  font-size: 0.84rem;
+  color: var(--ink-soft);
+}
+
+.hidden {
+  display: none !important;
+}
+
 .empty-cell {
   text-align: center;
   color: var(--ink-soft);
