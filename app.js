@@ -9,7 +9,7 @@ const FORMAT_FILES = {
 const state = {
   rows: [],
   loadedFormats: [],
-  sortKey: "combinedShare",
+  sortKey: "mainDecks",
   sortDir: "desc",
   scryfallCache: new Map(),
 };
@@ -182,7 +182,6 @@ function normalizeRows(formatName, jsonData) {
       mainAvg,
       sideDecks,
       sideAvg,
-      combinedShare: mainDecks + sideDecks,
     };
   });
 }
@@ -242,7 +241,7 @@ function wireEvents() {
     els.minDeckShare.value = "0";
     els.minAvgCopies.value = "0";
     els.rowLimit.value = "50";
-    state.sortKey = "combinedShare";
+    state.sortKey = "mainDecks";
     state.sortDir = "desc";
     render();
   });
@@ -433,7 +432,6 @@ function rowHtml(row) {
       <td>${row.mainAvg.toFixed(1)}</td>
       <td>${pct(row.sideDecks)}</td>
       <td>${row.sideAvg.toFixed(1)}</td>
-      <td><strong>${pct(row.combinedShare)}</strong></td>
     </tr>
   `;
 }
