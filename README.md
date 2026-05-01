@@ -2,6 +2,8 @@
 
 MTGTOP8 staple-card JSON snapshots plus a static web explorer for filtering and sorting.
 
+View on https://suppennudel.github.io/mtgtop8-topcards/
+
 ## Web explorer
 
 This repository now includes a GitHub Pages-ready static site:
