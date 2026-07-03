@@ -2,7 +2,7 @@
   "Lightning Bolt": {
     "cardname": "Lightning Bolt",
     "mainboard": {
-      "decks": 0.236,
+      "decks": 0.234,
       "avg": 3.8
     },
     "sideboard": {
@@ -13,19 +13,8 @@
   "Lórien Revealed": {
     "cardname": "Lórien Revealed",
     "mainboard": {
-      "decks": 0.226,
+      "decks": 0.228,
       "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Sneaky Snacker": {
-    "cardname": "Sneaky Snacker",
-    "mainboard": {
-      "decks": 0.216,
-      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -35,12 +24,34 @@
   "Cast Down": {
     "cardname": "Cast Down",
     "mainboard": {
-      "decks": 0.215,
+      "decks": 0.216,
       "avg": 3.1
     },
     "sideboard": {
-      "decks": 0.035,
+      "decks": 0.033,
       "avg": 1.9
+    }
+  },
+  "Sneaky Snacker": {
+    "cardname": "Sneaky Snacker",
+    "mainboard": {
+      "decks": 0.213,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Counterspell": {
+    "cardname": "Counterspell",
+    "mainboard": {
+      "decks": 0.204,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.7
     }
   },
   "Nihil Spellbomb": {
@@ -50,37 +61,15 @@
       "avg": 2.6
     },
     "sideboard": {
-      "decks": 0.161,
+      "decks": 0.16,
       "avg": 1.9
-    }
-  },
-  "Counterspell": {
-    "cardname": "Counterspell",
-    "mainboard": {
-      "decks": 0.202,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.4
     }
   },
   "Ichor Wellspring": {
     "cardname": "Ichor Wellspring",
     "mainboard": {
-      "decks": 0.193,
+      "decks": 0.192,
       "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Vault of Whispers": {
-    "cardname": "Vault of Whispers",
-    "mainboard": {
-      "decks": 0.187,
-      "avg": 3.0
     },
     "sideboard": {
       "decks": 0,
@@ -90,12 +79,23 @@
   "Bojuka Bog": {
     "cardname": "Bojuka Bog",
     "mainboard": {
-      "decks": 0.185,
+      "decks": 0.187,
       "avg": 1.4
     },
     "sideboard": {
-      "decks": 0.008,
+      "decks": 0.009,
       "avg": 1.0
+    }
+  },
+  "Vault of Whispers": {
+    "cardname": "Vault of Whispers",
+    "mainboard": {
+      "decks": 0.186,
+      "avg": 3.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Refurbished Familiar": {
@@ -112,7 +112,7 @@
   "Brainstorm": {
     "cardname": "Brainstorm",
     "mainboard": {
-      "decks": 0.178,
+      "decks": 0.18,
       "avg": 3.9
     },
     "sideboard": {
@@ -123,7 +123,7 @@
   "Voldaren Epicure": {
     "cardname": "Voldaren Epicure",
     "mainboard": {
-      "decks": 0.175,
+      "decks": 0.174,
       "avg": 4.0
     },
     "sideboard": {
@@ -134,7 +134,7 @@
   "Faithless Looting": {
     "cardname": "Faithless Looting",
     "mainboard": {
-      "decks": 0.164,
+      "decks": 0.161,
       "avg": 3.7
     },
     "sideboard": {
@@ -156,7 +156,7 @@
   "Galvanic Blast": {
     "cardname": "Galvanic Blast",
     "mainboard": {
-      "decks": 0.155,
+      "decks": 0.154,
       "avg": 4.0
     },
     "sideboard": {
@@ -167,7 +167,7 @@
   "Drossforge Bridge": {
     "cardname": "Drossforge Bridge",
     "mainboard": {
-      "decks": 0.153,
+      "decks": 0.152,
       "avg": 3.9
     },
     "sideboard": {
@@ -178,23 +178,12 @@
   "Krark-Clan Shaman": {
     "cardname": "Krark-Clan Shaman",
     "mainboard": {
-      "decks": 0.146,
+      "decks": 0.145,
       "avg": 3.0
     },
     "sideboard": {
-      "decks": 0.05,
+      "decks": 0.049,
       "avg": 1.2
-    }
-  },
-  "Makeshift Munitions": {
-    "cardname": "Makeshift Munitions",
-    "mainboard": {
-      "decks": 0.144,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
     }
   },
   "Eviscerator's Insight": {
@@ -208,6 +197,17 @@
       "avg": 0
     }
   },
+  "Makeshift Munitions": {
+    "cardname": "Makeshift Munitions",
+    "mainboard": {
+      "decks": 0.144,
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
   "Fanatical Offering": {
     "cardname": "Fanatical Offering",
     "mainboard": {
@@ -217,6 +217,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Blood Fountain": {
+    "cardname": "Blood Fountain",
+    "mainboard": {
+      "decks": 0.135,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.005,
+      "avg": 1.0
     }
   },
   "Generous Ent": {
@@ -230,21 +241,10 @@
       "avg": 1.0
     }
   },
-  "Blood Fountain": {
-    "cardname": "Blood Fountain",
-    "mainboard": {
-      "decks": 0.134,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0.005,
-      "avg": 1.0
-    }
-  },
   "Lembas": {
     "cardname": "Lembas",
     "mainboard": {
-      "decks": 0.133,
+      "decks": 0.131,
       "avg": 3.0
     },
     "sideboard": {
@@ -255,7 +255,7 @@
   "Grab the Prize": {
     "cardname": "Grab the Prize",
     "mainboard": {
-      "decks": 0.13,
+      "decks": 0.128,
       "avg": 4.0
     },
     "sideboard": {
@@ -266,7 +266,7 @@
   "Fiery Temper": {
     "cardname": "Fiery Temper",
     "mainboard": {
-      "decks": 0.129,
+      "decks": 0.128,
       "avg": 4.0
     },
     "sideboard": {
@@ -277,23 +277,23 @@
   "Writhing Chrysalis": {
     "cardname": "Writhing Chrysalis",
     "mainboard": {
-      "decks": 0.125,
+      "decks": 0.124,
       "avg": 4.0
     },
     "sideboard": {
-      "decks": 0.009,
+      "decks": 0.01,
       "avg": 3.2
     }
   },
-  "Highway Robbery": {
-    "cardname": "Highway Robbery",
+  "Toxin Analysis": {
+    "cardname": "Toxin Analysis",
     "mainboard": {
       "decks": 0.124,
-      "avg": 3.9
+      "avg": 2.1
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.026,
+      "avg": 1.3
     }
   },
   "Fireblast": {
@@ -307,15 +307,15 @@
       "avg": 1.2
     }
   },
-  "Toxin Analysis": {
-    "cardname": "Toxin Analysis",
+  "Highway Robbery": {
+    "cardname": "Highway Robbery",
     "mainboard": {
       "decks": 0.123,
-      "avg": 2.1
+      "avg": 3.9
     },
     "sideboard": {
-      "decks": 0.027,
-      "avg": 1.3
+      "decks": 0,
+      "avg": 0
     }
   },
   "Reckoner's Bargain": {
@@ -337,7 +337,7 @@
     },
     "sideboard": {
       "decks": 0.032,
-      "avg": 1.8
+      "avg": 1.7
     }
   },
   "Snuff Out": {
@@ -354,34 +354,34 @@
   "Thraben Charm": {
     "cardname": "Thraben Charm",
     "mainboard": {
-      "decks": 0.118,
+      "decks": 0.117,
       "avg": 2.9
     },
     "sideboard": {
-      "decks": 0.087,
+      "decks": 0.086,
       "avg": 1.8
     }
   },
   "Dispel": {
     "cardname": "Dispel",
     "mainboard": {
-      "decks": 0.112,
+      "decks": 0.115,
       "avg": 1.8
     },
     "sideboard": {
-      "decks": 0.073,
+      "decks": 0.072,
       "avg": 1.8
     }
   },
   "Lava Dart": {
     "cardname": "Lava Dart",
     "mainboard": {
-      "decks": 0.107,
+      "decks": 0.106,
       "avg": 3.9
     },
     "sideboard": {
-      "decks": 0.001,
-      "avg": 1.5
+      "decks": 0.002,
+      "avg": 1.4
     }
   },
   "Murmuring Mystic": {
@@ -391,41 +391,30 @@
       "avg": 1.6
     },
     "sideboard": {
-      "decks": 0.07,
+      "decks": 0.071,
       "avg": 1.5
-    }
-  },
-  "Sagu Wildling": {
-    "cardname": "Sagu Wildling",
-    "mainboard": {
-      "decks": 0.103,
-      "avg": 2.7
-    },
-    "sideboard": {
-      "decks": 0.003,
-      "avg": 1.5
-    }
-  },
-  "Nyxborn Hydra": {
-    "cardname": "Nyxborn Hydra",
-    "mainboard": {
-      "decks": 0.102,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0.007,
-      "avg": 1.1
     }
   },
   "Seat of the Synod": {
     "cardname": "Seat of the Synod",
     "mainboard": {
-      "decks": 0.101,
+      "decks": 0.102,
       "avg": 2.9
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Sagu Wildling": {
+    "cardname": "Sagu Wildling",
+    "mainboard": {
+      "decks": 0.101,
+      "avg": 2.7
+    },
+    "sideboard": {
+      "decks": 0.003,
+      "avg": 1.5
     }
   },
   "Mistvault Bridge": {
@@ -453,7 +442,7 @@
   "Malevolent Rumble": {
     "cardname": "Malevolent Rumble",
     "mainboard": {
-      "decks": 0.1,
+      "decks": 0.101,
       "avg": 3.7
     },
     "sideboard": {
@@ -461,15 +450,15 @@
       "avg": 1.5
     }
   },
-  "Guttersnipe": {
-    "cardname": "Guttersnipe",
+  "Nyxborn Hydra": {
+    "cardname": "Nyxborn Hydra",
     "mainboard": {
-      "decks": 0.1,
-      "avg": 3.2
+      "decks": 0.101,
+      "avg": 2.8
     },
     "sideboard": {
-      "decks": 0.001,
-      "avg": 1.2
+      "decks": 0.007,
+      "avg": 1.1
     }
   },
   "Myr Enforcer": {
@@ -483,21 +472,21 @@
       "avg": 3.0
     }
   },
-  "Kessig Flamebreather": {
-    "cardname": "Kessig Flamebreather",
+  "Guttersnipe": {
+    "cardname": "Guttersnipe",
     "mainboard": {
       "decks": 0.099,
-      "avg": 3.9
+      "avg": 3.2
     },
     "sideboard": {
-      "decks": 0.0,
-      "avg": 4.0
+      "decks": 0.002,
+      "avg": 1.1
     }
   },
   "Tolarian Terror": {
     "cardname": "Tolarian Terror",
     "mainboard": {
-      "decks": 0.098,
+      "decks": 0.099,
       "avg": 4.0
     },
     "sideboard": {
@@ -505,10 +494,21 @@
       "avg": 0
     }
   },
+  "Kessig Flamebreather": {
+    "cardname": "Kessig Flamebreather",
+    "mainboard": {
+      "decks": 0.098,
+      "avg": 3.9
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 4.0
+    }
+  },
   "Prismatic Strands": {
     "cardname": "Prismatic Strands",
     "mainboard": {
-      "decks": 0.098,
+      "decks": 0.097,
       "avg": 3.0
     },
     "sideboard": {
@@ -549,22 +549,22 @@
       "avg": 1.6
     }
   },
-  "Winding Way": {
-    "cardname": "Winding Way",
+  "Thought Scour": {
+    "cardname": "Thought Scour",
     "mainboard": {
       "decks": 0.088,
-      "avg": 3.9
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Thought Scour": {
-    "cardname": "Thought Scour",
+  "Winding Way": {
+    "cardname": "Winding Way",
     "mainboard": {
-      "decks": 0.087,
-      "avg": 4.0
+      "decks": 0.088,
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -596,7 +596,7 @@
   "Ponder": {
     "cardname": "Ponder",
     "mainboard": {
-      "decks": 0.08,
+      "decks": 0.082,
       "avg": 2.9
     },
     "sideboard": {
@@ -607,12 +607,12 @@
   "Masked Vandal": {
     "cardname": "Masked Vandal",
     "mainboard": {
-      "decks": 0.079,
-      "avg": 3.7
+      "decks": 0.078,
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0.027,
-      "avg": 2.1
+      "avg": 2.0
     }
   },
   "Sewer-veillance Cam": {
@@ -633,19 +633,8 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.023,
-      "avg": 1.3
-    }
-  },
-  "Quirion Ranger": {
-    "cardname": "Quirion Ranger",
-    "mainboard": {
-      "decks": 0.074,
-      "avg": 3.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.022,
+      "avg": 1.4
     }
   },
   "Contaminated Aquifer": {
@@ -653,6 +642,17 @@
     "mainboard": {
       "decks": 0.074,
       "avg": 3.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Quirion Ranger": {
+    "cardname": "Quirion Ranger",
+    "mainboard": {
+      "decks": 0.074,
+      "avg": 3.4
     },
     "sideboard": {
       "decks": 0,
@@ -673,12 +673,12 @@
   "Journey to Nowhere": {
     "cardname": "Journey to Nowhere",
     "mainboard": {
-      "decks": 0.069,
+      "decks": 0.07,
       "avg": 3.1
     },
     "sideboard": {
       "decks": 0.027,
-      "avg": 2.1
+      "avg": 2.0
     }
   },
   "Tithing Blade": {
@@ -688,7 +688,7 @@
       "avg": 2.4
     },
     "sideboard": {
-      "decks": 0.021,
+      "decks": 0.019,
       "avg": 1.7
     }
   },
@@ -706,18 +706,18 @@
   "Spellstutter Sprite": {
     "cardname": "Spellstutter Sprite",
     "mainboard": {
-      "decks": 0.065,
+      "decks": 0.066,
       "avg": 4.0
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 3.6
+      "avg": 4.0
     }
   },
   "Preordain": {
     "cardname": "Preordain",
     "mainboard": {
-      "decks": 0.064,
+      "decks": 0.065,
       "avg": 3.2
     },
     "sideboard": {
@@ -725,10 +725,21 @@
       "avg": 0
     }
   },
-  "Kor Skyfisher": {
-    "cardname": "Kor Skyfisher",
+  "Bonder's Ornament": {
+    "cardname": "Bonder's Ornament",
     "mainboard": {
-      "decks": 0.062,
+      "decks": 0.063,
+      "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.8
+    }
+  },
+  "Faerie Seer": {
+    "cardname": "Faerie Seer",
+    "mainboard": {
+      "decks": 0.063,
       "avg": 3.9
     },
     "sideboard": {
@@ -747,10 +758,10 @@
       "avg": 2.1
     }
   },
-  "Faerie Seer": {
-    "cardname": "Faerie Seer",
+  "Kor Skyfisher": {
+    "cardname": "Kor Skyfisher",
     "mainboard": {
-      "decks": 0.062,
+      "decks": 0.061,
       "avg": 3.9
     },
     "sideboard": {
@@ -758,26 +769,15 @@
       "avg": 0
     }
   },
-  "Thraben Inspector": {
-    "cardname": "Thraben Inspector",
+  "Ninja of the Deep Hours": {
+    "cardname": "Ninja of the Deep Hours",
     "mainboard": {
       "decks": 0.061,
-      "avg": 3.7
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Bonder's Ornament": {
-    "cardname": "Bonder's Ornament",
-    "mainboard": {
-      "decks": 0.06,
-      "avg": 2.2
+      "avg": 2.9
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.8
+      "avg": 1.0
     }
   },
   "Khalni Garden": {
@@ -791,14 +791,14 @@
       "avg": 1.0
     }
   },
-  "Ninja of the Deep Hours": {
-    "cardname": "Ninja of the Deep Hours",
+  "Thraben Inspector": {
+    "cardname": "Thraben Inspector",
     "mainboard": {
       "decks": 0.06,
-      "avg": 2.9
+      "avg": 3.7
     },
     "sideboard": {
-      "decks": 0.001,
+      "decks": 0.0,
       "avg": 1.0
     }
   },
@@ -816,12 +816,34 @@
   "Cryptic Serpent": {
     "cardname": "Cryptic Serpent",
     "mainboard": {
-      "decks": 0.056,
+      "decks": 0.057,
       "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Thorn of the Black Rose": {
+    "cardname": "Thorn of the Black Rose",
+    "mainboard": {
+      "decks": 0.057,
+      "avg": 1.8
+    },
+    "sideboard": {
+      "decks": 0.023,
+      "avg": 1.1
+    }
+  },
+  "Ephemerate": {
+    "cardname": "Ephemerate",
+    "mainboard": {
+      "decks": 0.056,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.5
     }
   },
   "Slagwoods Bridge": {
@@ -835,32 +857,21 @@
       "avg": 0
     }
   },
-  "Thorn of the Black Rose": {
-    "cardname": "Thorn of the Black Rose",
+  "Augur of Bolas": {
+    "cardname": "Augur of Bolas",
     "mainboard": {
       "decks": 0.056,
-      "avg": 1.8
+      "avg": 3.8
     },
     "sideboard": {
-      "decks": 0.023,
-      "avg": 1.1
-    }
-  },
-  "Ephemerate": {
-    "cardname": "Ephemerate",
-    "mainboard": {
-      "decks": 0.055,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.5
+      "decks": 0,
+      "avg": 0
     }
   },
   "Sleep of the Dead": {
     "cardname": "Sleep of the Dead",
     "mainboard": {
-      "decks": 0.054,
+      "decks": 0.056,
       "avg": 2.0
     },
     "sideboard": {
@@ -868,11 +879,11 @@
       "avg": 1.3
     }
   },
-  "Augur of Bolas": {
-    "cardname": "Augur of Bolas",
+  "Moon-Circuit Hacker": {
+    "cardname": "Moon-Circuit Hacker",
     "mainboard": {
-      "decks": 0.054,
-      "avg": 3.8
+      "decks": 0.055,
+      "avg": 2.6
     },
     "sideboard": {
       "decks": 0,
@@ -886,19 +897,8 @@
       "avg": 2.1
     },
     "sideboard": {
-      "decks": 0.046,
+      "decks": 0.048,
       "avg": 1.6
-    }
-  },
-  "Moon-Circuit Hacker": {
-    "cardname": "Moon-Circuit Hacker",
-    "mainboard": {
-      "decks": 0.054,
-      "avg": 2.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Gatecreeper Vine": {
@@ -912,6 +912,17 @@
       "avg": 0
     }
   },
+  "Chain Lightning": {
+    "cardname": "Chain Lightning",
+    "mainboard": {
+      "decks": 0.053,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
   "Experimental Synthesizer": {
     "cardname": "Experimental Synthesizer",
     "mainboard": {
@@ -923,48 +934,15 @@
       "avg": 0
     }
   },
-  "Chain Lightning": {
-    "cardname": "Chain Lightning",
-    "mainboard": {
-      "decks": 0.052,
-      "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
   "Clockwork Percussionist": {
     "cardname": "Clockwork Percussionist",
     "mainboard": {
-      "decks": 0.051,
+      "decks": 0.052,
       "avg": 4.0
     },
     "sideboard": {
       "decks": 0.0,
       "avg": 2.0
-    }
-  },
-  "Utopia Sprawl": {
-    "cardname": "Utopia Sprawl",
-    "mainboard": {
-      "decks": 0.051,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Abandon Attachments": {
-    "cardname": "Abandon Attachments",
-    "mainboard": {
-      "decks": 0.051,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0.011,
-      "avg": 1.1
     }
   },
   "Mulldrifter": {
@@ -981,7 +959,7 @@
   "Basilisk Gate": {
     "cardname": "Basilisk Gate",
     "mainboard": {
-      "decks": 0.05,
+      "decks": 0.051,
       "avg": 4.0
     },
     "sideboard": {
@@ -989,10 +967,10 @@
       "avg": 0
     }
   },
-  "Goblin Tomb Raider": {
-    "cardname": "Goblin Tomb Raider",
+  "Utopia Sprawl": {
+    "cardname": "Utopia Sprawl",
     "mainboard": {
-      "decks": 0.05,
+      "decks": 0.051,
       "avg": 4.0
     },
     "sideboard": {
@@ -1003,7 +981,7 @@
   "Sacred Cat": {
     "cardname": "Sacred Cat",
     "mainboard": {
-      "decks": 0.05,
+      "decks": 0.051,
       "avg": 3.9
     },
     "sideboard": {
@@ -1011,10 +989,10 @@
       "avg": 2.5
     }
   },
-  "Citadel Gate": {
-    "cardname": "Citadel Gate",
+  "Goblin Tomb Raider": {
+    "cardname": "Goblin Tomb Raider",
     "mainboard": {
-      "decks": 0.05,
+      "decks": 0.051,
       "avg": 4.0
     },
     "sideboard": {
@@ -1022,15 +1000,26 @@
       "avg": 0
     }
   },
-  "Land Grant": {
-    "cardname": "Land Grant",
+  "Citadel Gate": {
+    "cardname": "Citadel Gate",
     "mainboard": {
-      "decks": 0.05,
-      "avg": 3.6
+      "decks": 0.051,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Breath Weapon": {
+    "cardname": "Breath Weapon",
+    "mainboard": {
+      "decks": 0.05,
+      "avg": 1.6
+    },
+    "sideboard": {
+      "decks": 0.228,
+      "avg": 2.0
     }
   },
   "Urza's Mine": {
@@ -1066,15 +1055,26 @@
       "avg": 0
     }
   },
-  "Breath Weapon": {
-    "cardname": "Breath Weapon",
+  "Abandon Attachments": {
+    "cardname": "Abandon Attachments",
     "mainboard": {
-      "decks": 0.049,
-      "avg": 1.6
+      "decks": 0.05,
+      "avg": 2.8
     },
     "sideboard": {
-      "decks": 0.23,
-      "avg": 2.0
+      "decks": 0.012,
+      "avg": 1.1
+    }
+  },
+  "Land Grant": {
+    "cardname": "Land Grant",
+    "mainboard": {
+      "decks": 0.05,
+      "avg": 3.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Expedition Map": {
@@ -1091,7 +1091,7 @@
   "Outlaw Medic": {
     "cardname": "Outlaw Medic",
     "mainboard": {
-      "decks": 0.048,
+      "decks": 0.049,
       "avg": 3.4
     },
     "sideboard": {
@@ -1106,25 +1106,25 @@
       "avg": 1.2
     },
     "sideboard": {
-      "decks": 0.041,
+      "decks": 0.04,
       "avg": 1.9
     }
   },
   "Snap": {
     "cardname": "Snap",
     "mainboard": {
-      "decks": 0.048,
-      "avg": 3.5
+      "decks": 0.047,
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0.002,
-      "avg": 1.4
+      "avg": 1.5
     }
   },
   "Novice Inspector": {
     "cardname": "Novice Inspector",
     "mainboard": {
-      "decks": 0.048,
+      "decks": 0.047,
       "avg": 3.3
     },
     "sideboard": {
@@ -1132,11 +1132,55 @@
       "avg": 1.0
     }
   },
+  "Manor Gate": {
+    "cardname": "Manor Gate",
+    "mainboard": {
+      "decks": 0.047,
+      "avg": 3.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Goblin Bushwhacker": {
     "cardname": "Goblin Bushwhacker",
     "mainboard": {
-      "decks": 0.046,
+      "decks": 0.047,
       "avg": 3.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Deem Inferior": {
+    "cardname": "Deem Inferior",
+    "mainboard": {
+      "decks": 0.046,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 1.5
+    }
+  },
+  "Prophetic Prism": {
+    "cardname": "Prophetic Prism",
+    "mainboard": {
+      "decks": 0.046,
+      "avg": 3.3
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Llanowar Elves": {
+    "cardname": "Llanowar Elves",
+    "mainboard": {
+      "decks": 0.045,
+      "avg": 3.3
     },
     "sideboard": {
       "decks": 0,
@@ -1146,7 +1190,7 @@
   "Priest of Titania": {
     "cardname": "Priest of Titania",
     "mainboard": {
-      "decks": 0.046,
+      "decks": 0.045,
       "avg": 3.9
     },
     "sideboard": {
@@ -1157,41 +1201,8 @@
   "Ice Tunnel": {
     "cardname": "Ice Tunnel",
     "mainboard": {
-      "decks": 0.046,
+      "decks": 0.045,
       "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Llanowar Elves": {
-    "cardname": "Llanowar Elves",
-    "mainboard": {
-      "decks": 0.046,
-      "avg": 3.3
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Manor Gate": {
-    "cardname": "Manor Gate",
-    "mainboard": {
-      "decks": 0.046,
-      "avg": 3.2
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Prophetic Prism": {
-    "cardname": "Prophetic Prism",
-    "mainboard": {
-      "decks": 0.046,
-      "avg": 3.3
     },
     "sideboard": {
       "decks": 0,
@@ -1209,15 +1220,15 @@
       "avg": 0
     }
   },
-  "Deem Inferior": {
-    "cardname": "Deem Inferior",
+  "Reckless Impulse": {
+    "cardname": "Reckless Impulse",
     "mainboard": {
-      "decks": 0.045,
-      "avg": 2.4
+      "decks": 0.044,
+      "avg": 3.1
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.5
+      "decks": 0.003,
+      "avg": 2.0
     }
   },
   "Weather the Storm": {
@@ -1231,11 +1242,11 @@
       "avg": 3.1
     }
   },
-  "Pursue the Past": {
-    "cardname": "Pursue the Past",
+  "Delver of Secrets": {
+    "cardname": "Delver of Secrets",
     "mainboard": {
-      "decks": 0.043,
-      "avg": 3.7
+      "decks": 0.044,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -1253,48 +1264,26 @@
       "avg": 4.0
     }
   },
-  "Reckless Impulse": {
-    "cardname": "Reckless Impulse",
+  "Pursue the Past": {
+    "cardname": "Pursue the Past",
     "mainboard": {
       "decks": 0.043,
-      "avg": 3.1
+      "avg": 3.7
     },
     "sideboard": {
-      "decks": 0.003,
-      "avg": 2.0
+      "decks": 0,
+      "avg": 0
     }
   },
   "Leonardo, Big Brother": {
     "cardname": "Leonardo, Big Brother",
     "mainboard": {
-      "decks": 0.043,
+      "decks": 0.042,
       "avg": 2.8
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Delver of Secrets": {
-    "cardname": "Delver of Secrets",
-    "mainboard": {
-      "decks": 0.043,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Cryogen Relic": {
-    "cardname": "Cryogen Relic",
-    "mainboard": {
-      "decks": 0.043,
-      "avg": 3.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.5
     }
   },
   "Heap Gate": {
@@ -1308,15 +1297,37 @@
       "avg": 0
     }
   },
-  "Black Mage's Rod": {
-    "cardname": "Black Mage's Rod",
+  "Cryogen Relic": {
+    "cardname": "Cryogen Relic",
     "mainboard": {
-      "decks": 0.041,
-      "avg": 2.3
+      "decks": 0.042,
+      "avg": 3.0
     },
     "sideboard": {
-      "decks": 0.001,
-      "avg": 2.0
+      "decks": 0.0,
+      "avg": 1.5
+    }
+  },
+  "Archaeomancer": {
+    "cardname": "Archaeomancer",
+    "mainboard": {
+      "decks": 0.042,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Burning-Tree Emissary": {
+    "cardname": "Burning-Tree Emissary",
+    "mainboard": {
+      "decks": 0.042,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Haunted Mire": {
@@ -1330,30 +1341,8 @@
       "avg": 1.0
     }
   },
-  "Lunarch Veteran": {
-    "cardname": "Lunarch Veteran",
-    "mainboard": {
-      "decks": 0.041,
-      "avg": 3.5
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Archaeomancer": {
-    "cardname": "Archaeomancer",
-    "mainboard": {
-      "decks": 0.041,
-      "avg": 2.5
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Burning-Tree Emissary": {
-    "cardname": "Burning-Tree Emissary",
+  "Rally at the Hornburg": {
+    "cardname": "Rally at the Hornburg",
     "mainboard": {
       "decks": 0.041,
       "avg": 4.0
@@ -1361,6 +1350,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Ghostly Flicker": {
+    "cardname": "Ghostly Flicker",
+    "mainboard": {
+      "decks": 0.041,
+      "avg": 1.7
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.3
     }
   },
   "Wild Growth": {
@@ -1374,32 +1374,21 @@
       "avg": 0
     }
   },
-  "Rally at the Hornburg": {
-    "cardname": "Rally at the Hornburg",
+  "Black Mage's Rod": {
+    "cardname": "Black Mage's Rod",
     "mainboard": {
       "decks": 0.04,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Ghostly Flicker": {
-    "cardname": "Ghostly Flicker",
-    "mainboard": {
-      "decks": 0.04,
-      "avg": 1.7
+      "avg": 2.3
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.3
+      "avg": 2.0
     }
   },
   "Crop Rotation": {
     "cardname": "Crop Rotation",
     "mainboard": {
-      "decks": 0.039,
+      "decks": 0.04,
       "avg": 2.1
     },
     "sideboard": {
@@ -1407,10 +1396,21 @@
       "avg": 1.8
     }
   },
+  "Lunarch Veteran": {
+    "cardname": "Lunarch Veteran",
+    "mainboard": {
+      "decks": 0.04,
+      "avg": 3.5
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
   "Volatile Fjord": {
     "cardname": "Volatile Fjord",
     "mainboard": {
-      "decks": 0.039,
+      "decks": 0.04,
       "avg": 2.7
     },
     "sideboard": {
@@ -1418,26 +1418,15 @@
       "avg": 0
     }
   },
-  "Gixian Infiltrator": {
-    "cardname": "Gixian Infiltrator",
+  "Wrenn's Resolve": {
+    "cardname": "Wrenn's Resolve",
     "mainboard": {
       "decks": 0.039,
-      "avg": 3.3
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Gurmag Angler": {
-    "cardname": "Gurmag Angler",
-    "mainboard": {
-      "decks": 0.039,
-      "avg": 2.0
+      "avg": 2.8
     },
     "sideboard": {
       "decks": 0.0,
-      "avg": 1.0
+      "avg": 2.5
     }
   },
   "Fyndhorn Elves": {
@@ -1451,15 +1440,26 @@
       "avg": 0
     }
   },
-  "Overgrown Battlement": {
-    "cardname": "Overgrown Battlement",
+  "Gixian Infiltrator": {
+    "cardname": "Gixian Infiltrator",
     "mainboard": {
-      "decks": 0.038,
-      "avg": 4.0
+      "decks": 0.039,
+      "avg": 3.4
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Gurmag Angler": {
+    "cardname": "Gurmag Angler",
+    "mainboard": {
+      "decks": 0.038,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Candy Trail": {
@@ -1473,21 +1473,10 @@
       "avg": 2.0
     }
   },
-  "Elvish Mystic": {
-    "cardname": "Elvish Mystic",
-    "mainboard": {
-      "decks": 0.037,
-      "avg": 2.7
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
   "Skred": {
     "cardname": "Skred",
     "mainboard": {
-      "decks": 0.037,
+      "decks": 0.038,
       "avg": 3.9
     },
     "sideboard": {
@@ -1495,15 +1484,26 @@
       "avg": 2.0
     }
   },
-  "Unexpected Fangs": {
-    "cardname": "Unexpected Fangs",
+  "Overgrown Battlement": {
+    "cardname": "Overgrown Battlement",
     "mainboard": {
-      "decks": 0.037,
-      "avg": 1.4
+      "decks": 0.038,
+      "avg": 4.0
     },
     "sideboard": {
-      "decks": 0.076,
-      "avg": 1.2
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Elvish Mystic": {
+    "cardname": "Elvish Mystic",
+    "mainboard": {
+      "decks": 0.037,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Dread Return": {
@@ -1517,32 +1517,32 @@
       "avg": 1.0
     }
   },
-  "Wrenn's Resolve": {
-    "cardname": "Wrenn's Resolve",
+  "Guardian of the Guildpact": {
+    "cardname": "Guardian of the Guildpact",
     "mainboard": {
       "decks": 0.037,
-      "avg": 2.8
+      "avg": 2.7
     },
     "sideboard": {
-      "decks": 0.0,
-      "avg": 2.5
+      "decks": 0.014,
+      "avg": 1.5
     }
   },
-  "Lotleth Giant": {
-    "cardname": "Lotleth Giant",
+  "Unexpected Fangs": {
+    "cardname": "Unexpected Fangs",
     "mainboard": {
       "decks": 0.037,
-      "avg": 2.2
+      "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.001,
+      "decks": 0.076,
       "avg": 1.3
     }
   },
   "Saruli Caretaker": {
     "cardname": "Saruli Caretaker",
     "mainboard": {
-      "decks": 0.037,
+      "decks": 0.036,
       "avg": 3.8
     },
     "sideboard": {
@@ -1550,15 +1550,15 @@
       "avg": 0
     }
   },
-  "Guardian of the Guildpact": {
-    "cardname": "Guardian of the Guildpact",
+  "Lotleth Giant": {
+    "cardname": "Lotleth Giant",
     "mainboard": {
       "decks": 0.036,
-      "avg": 2.7
+      "avg": 2.2
     },
     "sideboard": {
-      "decks": 0.014,
-      "avg": 1.5
+      "decks": 0.001,
+      "avg": 1.3
     }
   },
   "Eldrazi Repurposer": {
@@ -1583,26 +1583,26 @@
       "avg": 2.1
     }
   },
-  "Armadillo Cloak": {
-    "cardname": "Armadillo Cloak",
-    "mainboard": {
-      "decks": 0.035,
-      "avg": 3.5
-    },
-    "sideboard": {
-      "decks": 0.002,
-      "avg": 2.7
-    }
-  },
   "Dimir Aqueduct": {
     "cardname": "Dimir Aqueduct",
     "mainboard": {
-      "decks": 0.035,
+      "decks": 0.036,
       "avg": 1.1
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Armadillo Cloak": {
+    "cardname": "Armadillo Cloak",
+    "mainboard": {
+      "decks": 0.036,
+      "avg": 3.5
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 2.6
     }
   },
   "Mukotai Ambusher": {
@@ -1612,7 +1612,7 @@
       "avg": 1.1
     },
     "sideboard": {
-      "decks": 0.033,
+      "decks": 0.034,
       "avg": 1.1
     }
   },
@@ -1627,22 +1627,33 @@
       "avg": 0
     }
   },
-  "Battle Screech": {
-    "cardname": "Battle Screech",
+  "Extract a Confession": {
+    "cardname": "Extract a Confession",
     "mainboard": {
       "decks": 0.033,
-      "avg": 4.0
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0.156,
+      "avg": 1.8
+    }
+  },
+  "Boarding Party": {
+    "cardname": "Boarding Party",
+    "mainboard": {
+      "decks": 0.032,
+      "avg": 3.7
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Boarding Party": {
-    "cardname": "Boarding Party",
+  "Battle Screech": {
+    "cardname": "Battle Screech",
     "mainboard": {
-      "decks": 0.033,
-      "avg": 3.7
+      "decks": 0.032,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -1652,7 +1663,7 @@
   "Ancient Den": {
     "cardname": "Ancient Den",
     "mainboard": {
-      "decks": 0.033,
+      "decks": 0.032,
       "avg": 3.2
     },
     "sideboard": {
@@ -1671,21 +1682,21 @@
       "avg": 2.0
     }
   },
-  "Extract a Confession": {
-    "cardname": "Extract a Confession",
+  "Conduit Pylons": {
+    "cardname": "Conduit Pylons",
     "mainboard": {
-      "decks": 0.032,
-      "avg": 1.0
+      "decks": 0.031,
+      "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.155,
-      "avg": 1.8
+      "decks": 0,
+      "avg": 0
     }
   },
   "Crypt Rats": {
     "cardname": "Crypt Rats",
     "mainboard": {
-      "decks": 0.032,
+      "decks": 0.031,
       "avg": 2.7
     },
     "sideboard": {
@@ -1711,30 +1722,8 @@
       "avg": 2.7
     },
     "sideboard": {
-      "decks": 0.046,
+      "decks": 0.047,
       "avg": 1.9
-    }
-  },
-  "Boros Garrison": {
-    "cardname": "Boros Garrison",
-    "mainboard": {
-      "decks": 0.031,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Conduit Pylons": {
-    "cardname": "Conduit Pylons",
-    "mainboard": {
-      "decks": 0.031,
-      "avg": 1.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Prohibit": {
@@ -1751,8 +1740,30 @@
   "Vampire's Kiss": {
     "cardname": "Vampire's Kiss",
     "mainboard": {
-      "decks": 0.031,
+      "decks": 0.03,
       "avg": 3.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Force Spike": {
+    "cardname": "Force Spike",
+    "mainboard": {
+      "decks": 0.03,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.4
+    }
+  },
+  "Glacial Floodplain": {
+    "cardname": "Glacial Floodplain",
+    "mainboard": {
+      "decks": 0.03,
+      "avg": 1.6
     },
     "sideboard": {
       "decks": 0,
@@ -1762,7 +1773,7 @@
   "Jagged Barrens": {
     "cardname": "Jagged Barrens",
     "mainboard": {
-      "decks": 0.031,
+      "decks": 0.03,
       "avg": 4.0
     },
     "sideboard": {
@@ -1781,6 +1792,17 @@
       "avg": 0
     }
   },
+  "Heritage Reclamation": {
+    "cardname": "Heritage Reclamation",
+    "mainboard": {
+      "decks": 0.03,
+      "avg": 1.3
+    },
+    "sideboard": {
+      "decks": 0.019,
+      "avg": 1.8
+    }
+  },
   "Lotus Petal": {
     "cardname": "Lotus Petal",
     "mainboard": {
@@ -1790,28 +1812,6 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.0
-    }
-  },
-  "Force Spike": {
-    "cardname": "Force Spike",
-    "mainboard": {
-      "decks": 0.03,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.0
-    }
-  },
-  "Heritage Reclamation": {
-    "cardname": "Heritage Reclamation",
-    "mainboard": {
-      "decks": 0.03,
-      "avg": 1.3
-    },
-    "sideboard": {
-      "decks": 0.02,
-      "avg": 1.8
     }
   },
   "Kitchen Imp": {
@@ -1825,22 +1825,11 @@
       "avg": 0
     }
   },
-  "Glacial Floodplain": {
-    "cardname": "Glacial Floodplain",
+  "Boros Garrison": {
+    "cardname": "Boros Garrison",
     "mainboard": {
-      "decks": 0.03,
-      "avg": 1.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Glint Hawk": {
-    "cardname": "Glint Hawk",
-    "mainboard": {
-      "decks": 0.03,
-      "avg": 4.0
+      "decks": 0.029,
+      "avg": 2.4
     },
     "sideboard": {
       "decks": 0,
@@ -1850,7 +1839,7 @@
   "Agony Warp": {
     "cardname": "Agony Warp",
     "mainboard": {
-      "decks": 0.028,
+      "decks": 0.029,
       "avg": 1.0
     },
     "sideboard": {
@@ -1858,15 +1847,48 @@
       "avg": 1.1
     }
   },
-  "Mesmeric Fiend": {
-    "cardname": "Mesmeric Fiend",
+  "Glint Hawk": {
+    "cardname": "Glint Hawk",
     "mainboard": {
-      "decks": 0.027,
-      "avg": 2.2
+      "decks": 0.029,
+      "avg": 4.0
     },
     "sideboard": {
-      "decks": 0.042,
-      "avg": 2.4
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Seething Landscape": {
+    "cardname": "Seething Landscape",
+    "mainboard": {
+      "decks": 0.028,
+      "avg": 1.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Contaminated Landscape": {
+    "cardname": "Contaminated Landscape",
+    "mainboard": {
+      "decks": 0.028,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Wooded Ridgeline": {
+    "cardname": "Wooded Ridgeline",
+    "mainboard": {
+      "decks": 0.028,
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 1.0
     }
   },
   "Raffine's Informant": {
@@ -1880,39 +1902,6 @@
       "avg": 1.0
     }
   },
-  "Seething Landscape": {
-    "cardname": "Seething Landscape",
-    "mainboard": {
-      "decks": 0.027,
-      "avg": 1.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Wooded Ridgeline": {
-    "cardname": "Wooded Ridgeline",
-    "mainboard": {
-      "decks": 0.027,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0.002,
-      "avg": 1.0
-    }
-  },
-  "Contaminated Landscape": {
-    "cardname": "Contaminated Landscape",
-    "mainboard": {
-      "decks": 0.027,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Defile": {
     "cardname": "Defile",
     "mainboard": {
@@ -1924,15 +1913,15 @@
       "avg": 0
     }
   },
-  "Escape Tunnel": {
-    "cardname": "Escape Tunnel",
+  "Mesmeric Fiend": {
+    "cardname": "Mesmeric Fiend",
     "mainboard": {
-      "decks": 0.026,
-      "avg": 3.6
+      "decks": 0.027,
+      "avg": 2.2
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.042,
+      "avg": 2.4
     }
   },
   "Mortuary Mire": {
@@ -1946,11 +1935,55 @@
       "avg": 0
     }
   },
+  "Ash Barrens": {
+    "cardname": "Ash Barrens",
+    "mainboard": {
+      "decks": 0.026,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Cliffgate": {
     "cardname": "Cliffgate",
     "mainboard": {
-      "decks": 0.025,
+      "decks": 0.026,
       "avg": 3.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Golgari Rot Farm": {
+    "cardname": "Golgari Rot Farm",
+    "mainboard": {
+      "decks": 0.026,
+      "avg": 1.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Bramble Wurm": {
+    "cardname": "Bramble Wurm",
+    "mainboard": {
+      "decks": 0.025,
+      "avg": 3.9
+    },
+    "sideboard": {
+      "decks": 0.008,
+      "avg": 3.3
+    }
+  },
+  "Escape Tunnel": {
+    "cardname": "Escape Tunnel",
+    "mainboard": {
+      "decks": 0.025,
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0,
@@ -1968,44 +2001,33 @@
       "avg": 1.0
     }
   },
-  "Ash Barrens": {
-    "cardname": "Ash Barrens",
-    "mainboard": {
-      "decks": 0.025,
-      "avg": 1.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Golgari Rot Farm": {
-    "cardname": "Golgari Rot Farm",
-    "mainboard": {
-      "decks": 0.025,
-      "avg": 1.7
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Bramble Wurm": {
-    "cardname": "Bramble Wurm",
-    "mainboard": {
-      "decks": 0.025,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0.008,
-      "avg": 3.4
-    }
-  },
   "Pinnacle Kill-Ship": {
     "cardname": "Pinnacle Kill-Ship",
     "mainboard": {
       "decks": 0.025,
       "avg": 3.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Unfathomable Truths": {
+    "cardname": "Unfathomable Truths",
+    "mainboard": {
+      "decks": 0.025,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Elves of Deep Shadow": {
+    "cardname": "Elves of Deep Shadow",
+    "mainboard": {
+      "decks": 0.024,
+      "avg": 2.3
     },
     "sideboard": {
       "decks": 0,
@@ -2023,39 +2045,6 @@
       "avg": 0
     }
   },
-  "Idyllic Grange": {
-    "cardname": "Idyllic Grange",
-    "mainboard": {
-      "decks": 0.024,
-      "avg": 1.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Thrilling Discovery": {
-    "cardname": "Thrilling Discovery",
-    "mainboard": {
-      "decks": 0.024,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Unfathomable Truths": {
-    "cardname": "Unfathomable Truths",
-    "mainboard": {
-      "decks": 0.024,
-      "avg": 2.1
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Jewel Thief": {
     "cardname": "Jewel Thief",
     "mainboard": {
@@ -2067,6 +2056,17 @@
       "avg": 2.0
     }
   },
+  "Idyllic Grange": {
+    "cardname": "Idyllic Grange",
+    "mainboard": {
+      "decks": 0.024,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Negate": {
     "cardname": "Negate",
     "mainboard": {
@@ -2074,15 +2074,15 @@
       "avg": 1.7
     },
     "sideboard": {
-      "decks": 0.045,
+      "decks": 0.046,
       "avg": 1.7
     }
   },
-  "Elves of Deep Shadow": {
-    "cardname": "Elves of Deep Shadow",
+  "Azorius Chancery": {
+    "cardname": "Azorius Chancery",
     "mainboard": {
       "decks": 0.023,
-      "avg": 2.3
+      "avg": 3.3
     },
     "sideboard": {
       "decks": 0,
@@ -2100,11 +2100,11 @@
       "avg": 0
     }
   },
-  "Azorius Chancery": {
-    "cardname": "Azorius Chancery",
+  "Thrilling Discovery": {
+    "cardname": "Thrilling Discovery",
     "mainboard": {
       "decks": 0.023,
-      "avg": 3.3
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0,
@@ -2126,40 +2126,7 @@
     "cardname": "Of One Mind",
     "mainboard": {
       "decks": 0.023,
-      "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Wind-Scarred Crag": {
-    "cardname": "Wind-Scarred Crag",
-    "mainboard": {
-      "decks": 0.023,
-      "avg": 3.7
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Grim Bauble": {
-    "cardname": "Grim Bauble",
-    "mainboard": {
-      "decks": 0.023,
-      "avg": 2.1
-    },
-    "sideboard": {
-      "decks": 0.002,
-      "avg": 1.4
-    }
-  },
-  "Idyllic Beachfront": {
-    "cardname": "Idyllic Beachfront",
-    "mainboard": {
-      "decks": 0.023,
-      "avg": 1.1
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -2177,10 +2144,43 @@
       "avg": 0
     }
   },
+  "Boulderbranch Golem": {
+    "cardname": "Boulderbranch Golem",
+    "mainboard": {
+      "decks": 0.023,
+      "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Grim Bauble": {
+    "cardname": "Grim Bauble",
+    "mainboard": {
+      "decks": 0.023,
+      "avg": 2.1
+    },
+    "sideboard": {
+      "decks": 0.003,
+      "avg": 1.3
+    }
+  },
+  "Idyllic Beachfront": {
+    "cardname": "Idyllic Beachfront",
+    "mainboard": {
+      "decks": 0.023,
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Tangled Islet": {
     "cardname": "Tangled Islet",
     "mainboard": {
-      "decks": 0.023,
+      "decks": 0.022,
       "avg": 1.2
     },
     "sideboard": {
@@ -2188,37 +2188,26 @@
       "avg": 1.0
     }
   },
-  "Boulderbranch Golem": {
-    "cardname": "Boulderbranch Golem",
-    "mainboard": {
-      "decks": 0.022,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
   "Maelstrom Colossus": {
     "cardname": "Maelstrom Colossus",
     "mainboard": {
       "decks": 0.022,
-      "avg": 3.9
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Relic of Progenitus": {
-    "cardname": "Relic of Progenitus",
+  "God-Pharaoh's Faithful": {
+    "cardname": "God-Pharaoh's Faithful",
     "mainboard": {
       "decks": 0.022,
-      "avg": 1.8
+      "avg": 3.9
     },
     "sideboard": {
-      "decks": 0.275,
-      "avg": 2.5
+      "decks": 0.002,
+      "avg": 1.4
     }
   },
   "Spider-Man, Web-Slinger": {
@@ -2232,15 +2221,37 @@
       "avg": 0
     }
   },
-  "God-Pharaoh's Faithful": {
-    "cardname": "God-Pharaoh's Faithful",
+  "Relic of Progenitus": {
+    "cardname": "Relic of Progenitus",
     "mainboard": {
       "decks": 0.021,
-      "avg": 3.9
+      "avg": 1.8
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.4
+      "decks": 0.275,
+      "avg": 2.5
+    }
+  },
+  "Sunscape Familiar": {
+    "cardname": "Sunscape Familiar",
+    "mainboard": {
+      "decks": 0.021,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Wind-Scarred Crag": {
+    "cardname": "Wind-Scarred Crag",
+    "mainboard": {
+      "decks": 0.021,
+      "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Razortrap Gorge": {
@@ -2265,22 +2276,11 @@
       "avg": 0
     }
   },
-  "Sunscape Familiar": {
-    "cardname": "Sunscape Familiar",
+  "Ancient Stirrings": {
+    "cardname": "Ancient Stirrings",
     "mainboard": {
       "decks": 0.021,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Sandstorm Eidolon": {
-    "cardname": "Sandstorm Eidolon",
-    "mainboard": {
-      "decks": 0.021,
-      "avg": 2.2
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0,
@@ -2290,34 +2290,12 @@
   "Ram Through": {
     "cardname": "Ram Through",
     "mainboard": {
-      "decks": 0.021,
+      "decks": 0.02,
       "avg": 2.8
     },
     "sideboard": {
       "decks": 0.015,
       "avg": 2.0
-    }
-  },
-  "Aurora Eidolon": {
-    "cardname": "Aurora Eidolon",
-    "mainboard": {
-      "decks": 0.02,
-      "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Ancient Stirrings": {
-    "cardname": "Ancient Stirrings",
-    "mainboard": {
-      "decks": 0.02,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Mwonvuli Acid-Moss": {
@@ -2331,39 +2309,6 @@
       "avg": 3.1
     }
   },
-  "Brinebarrow Intruder": {
-    "cardname": "Brinebarrow Intruder",
-    "mainboard": {
-      "decks": 0.02,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
-    }
-  },
-  "Inside Out": {
-    "cardname": "Inside Out",
-    "mainboard": {
-      "decks": 0.02,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
-  "Tireless Tribe": {
-    "cardname": "Tireless Tribe",
-    "mainboard": {
-      "decks": 0.02,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Union of the Third Path": {
     "cardname": "Union of the Third Path",
     "mainboard": {
@@ -2373,6 +2318,17 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.0
+    }
+  },
+  "Sandstorm Eidolon": {
+    "cardname": "Sandstorm Eidolon",
+    "mainboard": {
+      "decks": 0.02,
+      "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Accursed Marauder": {
@@ -2386,10 +2342,21 @@
       "avg": 1.7
     }
   },
+  "Brinebarrow Intruder": {
+    "cardname": "Brinebarrow Intruder",
+    "mainboard": {
+      "decks": 0.02,
+      "avg": 3.6
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
   "Sea Gate Oracle": {
     "cardname": "Sea Gate Oracle",
     "mainboard": {
-      "decks": 0.019,
+      "decks": 0.02,
       "avg": 3.0
     },
     "sideboard": {
@@ -2397,33 +2364,22 @@
       "avg": 0
     }
   },
-  "Spirit Mascot": {
-    "cardname": "Spirit Mascot",
+  "Aurora Eidolon": {
+    "cardname": "Aurora Eidolon",
     "mainboard": {
       "decks": 0.019,
-      "avg": 3.9
+      "avg": 3.8
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Harrier Strix": {
-    "cardname": "Harrier Strix",
+  "Meeting of Minds": {
+    "cardname": "Meeting of Minds",
     "mainboard": {
       "decks": 0.019,
       "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Orzhov Basilica": {
-    "cardname": "Orzhov Basilica",
-    "mainboard": {
-      "decks": 0.019,
-      "avg": 2.5
     },
     "sideboard": {
       "decks": 0,
@@ -2441,8 +2397,30 @@
       "avg": 3.0
     }
   },
-  "Meeting of Minds": {
-    "cardname": "Meeting of Minds",
+  "Inside Out": {
+    "cardname": "Inside Out",
+    "mainboard": {
+      "decks": 0.019,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
+  "Tireless Tribe": {
+    "cardname": "Tireless Tribe",
+    "mainboard": {
+      "decks": 0.019,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Harrier Strix": {
+    "cardname": "Harrier Strix",
     "mainboard": {
       "decks": 0.019,
       "avg": 2.8
@@ -2452,32 +2430,10 @@
       "avg": 0
     }
   },
-  "Fling": {
-    "cardname": "Fling",
-    "mainboard": {
-      "decks": 0.019,
-      "avg": 1.2
-    },
-    "sideboard": {
-      "decks": 0.006,
-      "avg": 1.1
-    }
-  },
-  "Foreboding Landscape": {
-    "cardname": "Foreboding Landscape",
-    "mainboard": {
-      "decks": 0.018,
-      "avg": 1.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Hickory Woodlot": {
     "cardname": "Hickory Woodlot",
     "mainboard": {
-      "decks": 0.018,
+      "decks": 0.019,
       "avg": 4.0
     },
     "sideboard": {
@@ -2485,44 +2441,33 @@
       "avg": 0
     }
   },
-  "Eagles of the North": {
-    "cardname": "Eagles of the North",
+  "Orzhov Basilica": {
+    "cardname": "Orzhov Basilica",
     "mainboard": {
-      "decks": 0.018,
-      "avg": 1.1
+      "decks": 0.019,
+      "avg": 2.6
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Ramosian Rally": {
-    "cardname": "Ramosian Rally",
+  "Spirit Mascot": {
+    "cardname": "Spirit Mascot",
     "mainboard": {
-      "decks": 0.018,
-      "avg": 1.6
+      "decks": 0.019,
+      "avg": 3.9
     },
     "sideboard": {
-      "decks": 0.003,
-      "avg": 1.7
+      "decks": 0,
+      "avg": 0
     }
   },
-  "Ride's End": {
-    "cardname": "Ride's End",
+  "Foreboding Landscape": {
+    "cardname": "Foreboding Landscape",
     "mainboard": {
       "decks": 0.018,
-      "avg": 1.4
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.3
-    }
-  },
-  "Cauldron Familiar": {
-    "cardname": "Cauldron Familiar",
-    "mainboard": {
-      "decks": 0.018,
-      "avg": 3.1
+      "avg": 1.5
     },
     "sideboard": {
       "decks": 0,
@@ -2540,6 +2485,50 @@
       "avg": 1.5
     }
   },
+  "Fling": {
+    "cardname": "Fling",
+    "mainboard": {
+      "decks": 0.018,
+      "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0.006,
+      "avg": 1.0
+    }
+  },
+  "Ride's End": {
+    "cardname": "Ride's End",
+    "mainboard": {
+      "decks": 0.018,
+      "avg": 1.4
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.3
+    }
+  },
+  "Ramosian Rally": {
+    "cardname": "Ramosian Rally",
+    "mainboard": {
+      "decks": 0.018,
+      "avg": 1.6
+    },
+    "sideboard": {
+      "decks": 0.003,
+      "avg": 1.8
+    }
+  },
+  "Cauldron Familiar": {
+    "cardname": "Cauldron Familiar",
+    "mainboard": {
+      "decks": 0.018,
+      "avg": 3.1
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Nutrient Block": {
     "cardname": "Nutrient Block",
     "mainboard": {
@@ -2551,33 +2540,22 @@
       "avg": 0
     }
   },
-  "Rakdos Carnarium": {
-    "cardname": "Rakdos Carnarium",
-    "mainboard": {
-      "decks": 0.017,
-      "avg": 1.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Rancor": {
     "cardname": "Rancor",
     "mainboard": {
       "decks": 0.017,
-      "avg": 3.6
+      "avg": 3.7
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Chromatic Star": {
-    "cardname": "Chromatic Star",
+  "Eagles of the North": {
+    "cardname": "Eagles of the North",
     "mainboard": {
       "decks": 0.017,
-      "avg": 2.8
+      "avg": 1.1
     },
     "sideboard": {
       "decks": 0,
@@ -2606,6 +2584,28 @@
       "avg": 1.0
     }
   },
+  "Rakdos Carnarium": {
+    "cardname": "Rakdos Carnarium",
+    "mainboard": {
+      "decks": 0.017,
+      "avg": 1.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Chromatic Star": {
+    "cardname": "Chromatic Star",
+    "mainboard": {
+      "decks": 0.017,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Omen of the Dead": {
     "cardname": "Omen of the Dead",
     "mainboard": {
@@ -2628,33 +2628,22 @@
       "avg": 1.0
     }
   },
+  "Lose Focus": {
+    "cardname": "Lose Focus",
+    "mainboard": {
+      "decks": 0.017,
+      "avg": 1.5
+    },
+    "sideboard": {
+      "decks": 0.004,
+      "avg": 1.6
+    }
+  },
   "The Modern Age": {
     "cardname": "The Modern Age",
     "mainboard": {
       "decks": 0.017,
       "avg": 3.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Heaped Harvest": {
-    "cardname": "Heaped Harvest",
-    "mainboard": {
-      "decks": 0.016,
-      "avg": 1.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Crystal Grotto": {
-    "cardname": "Crystal Grotto",
-    "mainboard": {
-      "decks": 0.016,
-      "avg": 1.4
     },
     "sideboard": {
       "decks": 0,
@@ -2672,59 +2661,26 @@
       "avg": 0
     }
   },
-  "Oroku Saki, Shredder Rising": {
-    "cardname": "Oroku Saki, Shredder Rising",
-    "mainboard": {
-      "decks": 0.016,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Ethereal Armor": {
-    "cardname": "Ethereal Armor",
-    "mainboard": {
-      "decks": 0.016,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Lose Focus": {
-    "cardname": "Lose Focus",
+  "Crystal Grotto": {
+    "cardname": "Crystal Grotto",
     "mainboard": {
       "decks": 0.016,
       "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.004,
-      "avg": 1.6
-    }
-  },
-  "Behold the Multiverse": {
-    "cardname": "Behold the Multiverse",
-    "mainboard": {
-      "decks": 0.016,
-      "avg": 2.5
-    },
-    "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Loran's Escape": {
-    "cardname": "Loran's Escape",
+  "Heaped Harvest": {
+    "cardname": "Heaped Harvest",
     "mainboard": {
       "decks": 0.016,
-      "avg": 1.9
+      "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.014,
-      "avg": 1.7
+      "decks": 0,
+      "avg": 0
     }
   },
   "Selesnya Guildgate": {
@@ -2749,11 +2705,55 @@
       "avg": 1.6
     }
   },
-  "Goldmire Bridge": {
-    "cardname": "Goldmire Bridge",
+  "Ethereal Armor": {
+    "cardname": "Ethereal Armor",
+    "mainboard": {
+      "decks": 0.016,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "First Day of Class": {
+    "cardname": "First Day of Class",
+    "mainboard": {
+      "decks": 0.016,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Oroku Saki, Shredder Rising": {
+    "cardname": "Oroku Saki, Shredder Rising",
+    "mainboard": {
+      "decks": 0.016,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Sandstone Needle": {
+    "cardname": "Sandstone Needle",
+    "mainboard": {
+      "decks": 0.016,
+      "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Behold the Multiverse": {
+    "cardname": "Behold the Multiverse",
     "mainboard": {
       "decks": 0.015,
-      "avg": 3.0
+      "avg": 2.5
     },
     "sideboard": {
       "decks": 0,
@@ -2771,33 +2771,11 @@
       "avg": 1.0
     }
   },
-  "First Day of Class": {
-    "cardname": "First Day of Class",
+  "Goldmire Bridge": {
+    "cardname": "Goldmire Bridge",
     "mainboard": {
       "decks": 0.015,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Sandstone Needle": {
-    "cardname": "Sandstone Needle",
-    "mainboard": {
-      "decks": 0.015,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Tinder Wall": {
-    "cardname": "Tinder Wall",
-    "mainboard": {
-      "decks": 0.015,
-      "avg": 1.8
+      "avg": 3.0
     },
     "sideboard": {
       "decks": 0,
@@ -2807,8 +2785,52 @@
   "Bitter Reunion": {
     "cardname": "Bitter Reunion",
     "mainboard": {
-      "decks": 0.014,
+      "decks": 0.015,
       "avg": 3.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Loran's Escape": {
+    "cardname": "Loran's Escape",
+    "mainboard": {
+      "decks": 0.015,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0.013,
+      "avg": 1.7
+    }
+  },
+  "Visionary's Dance": {
+    "cardname": "Visionary's Dance",
+    "mainboard": {
+      "decks": 0.015,
+      "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Glimpse the Impossible": {
+    "cardname": "Glimpse the Impossible",
+    "mainboard": {
+      "decks": 0.014,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Tinder Wall": {
+    "cardname": "Tinder Wall",
+    "mainboard": {
+      "decks": 0.014,
+      "avg": 1.9
     },
     "sideboard": {
       "decks": 0,
@@ -2830,7 +2852,18 @@
     "cardname": "Haunted Fengraf",
     "mainboard": {
       "decks": 0.014,
-      "avg": 1.3
+      "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Hawkeye's Bow": {
+    "cardname": "Hawkeye's Bow",
+    "mainboard": {
+      "decks": 0.014,
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -2848,11 +2881,11 @@
       "avg": 4.0
     }
   },
-  "Visionary's Dance": {
-    "cardname": "Visionary's Dance",
+  "Seeker of Skybreak": {
+    "cardname": "Seeker of Skybreak",
     "mainboard": {
       "decks": 0.014,
-      "avg": 2.2
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -2866,52 +2899,8 @@
       "avg": 1.3
     },
     "sideboard": {
-      "decks": 0.015,
+      "decks": 0.014,
       "avg": 1.7
-    }
-  },
-  "Hawkeye's Bow": {
-    "cardname": "Hawkeye's Bow",
-    "mainboard": {
-      "decks": 0.014,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Melded Moxite": {
-    "cardname": "Melded Moxite",
-    "mainboard": {
-      "decks": 0.014,
-      "avg": 3.3
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
-  "Seeker of Skybreak": {
-    "cardname": "Seeker of Skybreak",
-    "mainboard": {
-      "decks": 0.014,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Glimpse the Impossible": {
-    "cardname": "Glimpse the Impossible",
-    "mainboard": {
-      "decks": 0.013,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Bannerhide Krushok": {
@@ -2919,17 +2908,6 @@
     "mainboard": {
       "decks": 0.013,
       "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Mnemonic Wall": {
-    "cardname": "Mnemonic Wall",
-    "mainboard": {
-      "decks": 0.013,
-      "avg": 2.3
     },
     "sideboard": {
       "decks": 0,
@@ -2947,37 +2925,26 @@
       "avg": 1.5
     }
   },
-  "Lightning Axe": {
-    "cardname": "Lightning Axe",
+  "Melded Moxite": {
+    "cardname": "Melded Moxite",
     "mainboard": {
       "decks": 0.013,
-      "avg": 2.5
+      "avg": 3.3
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.8
-    }
-  },
-  "Spinning Darkness": {
-    "cardname": "Spinning Darkness",
-    "mainboard": {
-      "decks": 0.013,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0.008,
+      "decks": 0.0,
       "avg": 1.5
     }
   },
-  "Sentinel's Eyes": {
-    "cardname": "Sentinel's Eyes",
+  "Mnemonic Wall": {
+    "cardname": "Mnemonic Wall",
     "mainboard": {
       "decks": 0.013,
-      "avg": 2.4
+      "avg": 2.3
     },
     "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
+      "decks": 0,
+      "avg": 0
     }
   },
   "Shambling Ghast": {
@@ -2991,6 +2958,17 @@
       "avg": 1.0
     }
   },
+  "Lightning Axe": {
+    "cardname": "Lightning Axe",
+    "mainboard": {
+      "decks": 0.013,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 1.8
+    }
+  },
   "Wellwisher": {
     "cardname": "Wellwisher",
     "mainboard": {
@@ -3000,6 +2978,61 @@
     "sideboard": {
       "decks": 0.005,
       "avg": 1.6
+    }
+  },
+  "Barrels of Blasting Jelly": {
+    "cardname": "Barrels of Blasting Jelly",
+    "mainboard": {
+      "decks": 0.013,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Rimewood Falls": {
+    "cardname": "Rimewood Falls",
+    "mainboard": {
+      "decks": 0.013,
+      "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Sentinel's Eyes": {
+    "cardname": "Sentinel's Eyes",
+    "mainboard": {
+      "decks": 0.013,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
+  "Spinning Darkness": {
+    "cardname": "Spinning Darkness",
+    "mainboard": {
+      "decks": 0.013,
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0.008,
+      "avg": 1.5
+    }
+  },
+  "Seething Song": {
+    "cardname": "Seething Song",
+    "mainboard": {
+      "decks": 0.012,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Simic Growth Chamber": {
@@ -3013,39 +3046,6 @@
       "avg": 0
     }
   },
-  "Bountiful Landscape": {
-    "cardname": "Bountiful Landscape",
-    "mainboard": {
-      "decks": 0.012,
-      "avg": 2.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Radiant Fountain": {
-    "cardname": "Radiant Fountain",
-    "mainboard": {
-      "decks": 0.012,
-      "avg": 1.2
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Rimewood Falls": {
-    "cardname": "Rimewood Falls",
-    "mainboard": {
-      "decks": 0.012,
-      "avg": 1.2
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
   "Unearth": {
     "cardname": "Unearth",
     "mainboard": {
@@ -3057,44 +3057,44 @@
       "avg": 1.0
     }
   },
-  "Barrels of Blasting Jelly": {
-    "cardname": "Barrels of Blasting Jelly",
-    "mainboard": {
-      "decks": 0.012,
-      "avg": 2.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Reaping the Graves": {
-    "cardname": "Reaping the Graves",
-    "mainboard": {
-      "decks": 0.012,
-      "avg": 2.2
-    },
-    "sideboard": {
-      "decks": 0.004,
-      "avg": 1.1
-    }
-  },
-  "Sea Gate": {
-    "cardname": "Sea Gate",
-    "mainboard": {
-      "decks": 0.012,
-      "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Axebane Guardian": {
-    "cardname": "Axebane Guardian",
+  "Bountiful Landscape": {
+    "cardname": "Bountiful Landscape",
     "mainboard": {
       "decks": 0.012,
       "avg": 2.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Goblin Anarchomancer": {
+    "cardname": "Goblin Anarchomancer",
+    "mainboard": {
+      "decks": 0.012,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Seize the Storm": {
+    "cardname": "Seize the Storm",
+    "mainboard": {
+      "decks": 0.012,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
+  "Thornscape Familiar": {
+    "cardname": "Thornscape Familiar",
+    "mainboard": {
+      "decks": 0.012,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -3123,15 +3123,37 @@
       "avg": 0
     }
   },
-  "Highland Forest": {
-    "cardname": "Highland Forest",
+  "Big Score": {
+    "cardname": "Big Score",
     "mainboard": {
-      "decks": 0.011,
-      "avg": 1.3
+      "decks": 0.012,
+      "avg": 3.9
     },
     "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Reaping the Graves": {
+    "cardname": "Reaping the Graves",
+    "mainboard": {
+      "decks": 0.012,
+      "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0.004,
+      "avg": 1.1
+    }
+  },
+  "Silhana Ledgewalker": {
+    "cardname": "Silhana Ledgewalker",
+    "mainboard": {
+      "decks": 0.012,
+      "avg": 3.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Pactdoll Terror": {
@@ -3145,22 +3167,11 @@
       "avg": 1.5
     }
   },
-  "Seething Song": {
-    "cardname": "Seething Song",
+  "Sea Gate": {
+    "cardname": "Sea Gate",
     "mainboard": {
       "decks": 0.011,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Silhana Ledgewalker": {
-    "cardname": "Silhana Ledgewalker",
-    "mainboard": {
-      "decks": 0.011,
-      "avg": 2.9
+      "avg": 3.8
     },
     "sideboard": {
       "decks": 0,
@@ -3178,8 +3189,8 @@
       "avg": 0
     }
   },
-  "Goblin Anarchomancer": {
-    "cardname": "Goblin Anarchomancer",
+  "Geothermal Crevice": {
+    "cardname": "Geothermal Crevice",
     "mainboard": {
       "decks": 0.011,
       "avg": 4.0
@@ -3200,22 +3211,11 @@
       "avg": 0
     }
   },
-  "Seize the Storm": {
-    "cardname": "Seize the Storm",
+  "Radiant Fountain": {
+    "cardname": "Radiant Fountain",
     "mainboard": {
       "decks": 0.011,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
-  "Thornscape Familiar": {
-    "cardname": "Thornscape Familiar",
-    "mainboard": {
-      "decks": 0.011,
-      "avg": 4.0
+      "avg": 1.2
     },
     "sideboard": {
       "decks": 0,
@@ -3233,6 +3233,28 @@
       "avg": 1.0
     }
   },
+  "Axebane Guardian": {
+    "cardname": "Axebane Guardian",
+    "mainboard": {
+      "decks": 0.011,
+      "avg": 3.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Highland Forest": {
+    "cardname": "Highland Forest",
+    "mainboard": {
+      "decks": 0.011,
+      "avg": 1.3
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
   "Village Rites": {
     "cardname": "Village Rites",
     "mainboard": {
@@ -3244,15 +3266,15 @@
       "avg": 0
     }
   },
-  "Big Score": {
-    "cardname": "Big Score",
+  "Greatsword of Tyr": {
+    "cardname": "Greatsword of Tyr",
     "mainboard": {
       "decks": 0.011,
-      "avg": 3.9
+      "avg": 1.1
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.002,
+      "avg": 1.1
     }
   },
   "Infestation Sage": {
@@ -3266,21 +3288,21 @@
       "avg": 0
     }
   },
-  "Azorius Guildgate": {
-    "cardname": "Azorius Guildgate",
+  "Stonehorn Dignitary": {
+    "cardname": "Stonehorn Dignitary",
     "mainboard": {
-      "decks": 0.01,
-      "avg": 1.9
+      "decks": 0.011,
+      "avg": 1.0
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.029,
+      "avg": 1.6
     }
   },
   "Bloodthrone Vampire": {
     "cardname": "Bloodthrone Vampire",
     "mainboard": {
-      "decks": 0.01,
+      "decks": 0.011,
       "avg": 3.7
     },
     "sideboard": {
@@ -3291,7 +3313,7 @@
   "Crimson Fleet Commodore": {
     "cardname": "Crimson Fleet Commodore",
     "mainboard": {
-      "decks": 0.01,
+      "decks": 0.011,
       "avg": 1.5
     },
     "sideboard": {
@@ -3302,7 +3324,7 @@
   "Gladecover Scout": {
     "cardname": "Gladecover Scout",
     "mainboard": {
-      "decks": 0.01,
+      "decks": 0.011,
       "avg": 3.9
     },
     "sideboard": {
@@ -3310,33 +3332,11 @@
       "avg": 0
     }
   },
-  "Greatsword of Tyr": {
-    "cardname": "Greatsword of Tyr",
-    "mainboard": {
-      "decks": 0.01,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.002,
-      "avg": 1.1
-    }
-  },
   "Nested Shambler": {
     "cardname": "Nested Shambler",
     "mainboard": {
-      "decks": 0.01,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Sheltering Landscape": {
-    "cardname": "Sheltering Landscape",
-    "mainboard": {
-      "decks": 0.01,
-      "avg": 2.5
+      "decks": 0.011,
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -3346,52 +3346,41 @@
   "Slippery Bogle": {
     "cardname": "Slippery Bogle",
     "mainboard": {
-      "decks": 0.01,
+      "decks": 0.011,
       "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Stonehorn Dignitary": {
-    "cardname": "Stonehorn Dignitary",
-    "mainboard": {
-      "decks": 0.01,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.029,
-      "avg": 1.6
     }
   },
   "Supernatural Stamina": {
     "cardname": "Supernatural Stamina",
     "mainboard": {
-      "decks": 0.01,
-      "avg": 3.6
+      "decks": 0.011,
+      "avg": 3.5
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Fog": {
-    "cardname": "Fog",
+  "Azorius Guildgate": {
+    "cardname": "Azorius Guildgate",
     "mainboard": {
       "decks": 0.01,
-      "avg": 1.2
+      "avg": 1.8
     },
     "sideboard": {
-      "decks": 0.001,
-      "avg": 2.3
+      "decks": 0,
+      "avg": 0
     }
   },
-  "Geothermal Crevice": {
-    "cardname": "Geothermal Crevice",
+  "Impulse": {
+    "cardname": "Impulse",
     "mainboard": {
       "decks": 0.01,
-      "avg": 4.0
+      "avg": 2.4
     },
     "sideboard": {
       "decks": 0,
@@ -3409,15 +3398,26 @@
       "avg": 1.0
     }
   },
-  "Impulse": {
-    "cardname": "Impulse",
+  "Sheltering Landscape": {
+    "cardname": "Sheltering Landscape",
     "mainboard": {
       "decks": 0.01,
-      "avg": 2.4
+      "avg": 2.5
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Fog": {
+    "cardname": "Fog",
+    "mainboard": {
+      "decks": 0.01,
+      "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.3
     }
   },
   "Arcane Denial": {
@@ -3431,11 +3431,11 @@
       "avg": 0
     }
   },
-  "Muddle the Mixture": {
-    "cardname": "Muddle the Mixture",
+  "Electric Revelation": {
+    "cardname": "Electric Revelation",
     "mainboard": {
       "decks": 0.01,
-      "avg": 1.6
+      "avg": 2.5
     },
     "sideboard": {
       "decks": 0,
@@ -3453,37 +3453,26 @@
       "avg": 0
     }
   },
-  "Militia Bugler": {
-    "cardname": "Militia Bugler",
+  "Muddle the Mixture": {
+    "cardname": "Muddle the Mixture",
     "mainboard": {
       "decks": 0.009,
-      "avg": 2.6
+      "avg": 1.6
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Bender's Waterskin": {
-    "cardname": "Bender's Waterskin",
+  "Fungal Infection": {
+    "cardname": "Fungal Infection",
     "mainboard": {
       "decks": 0.009,
-      "avg": 2.2
+      "avg": 1.5
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Electric Revelation": {
-    "cardname": "Electric Revelation",
-    "mainboard": {
-      "decks": 0.009,
-      "avg": 2.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.001,
+      "avg": 1.0
     }
   },
   "Growth Spiral": {
@@ -3508,6 +3497,17 @@
       "avg": 2.5
     }
   },
+  "Pirate's Pillage": {
+    "cardname": "Pirate's Pillage",
+    "mainboard": {
+      "decks": 0.009,
+      "avg": 3.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 4.0
+    }
+  },
   "Ashnod's Altar": {
     "cardname": "Ashnod's Altar",
     "mainboard": {
@@ -3517,6 +3517,28 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Bender's Waterskin": {
+    "cardname": "Bender's Waterskin",
+    "mainboard": {
+      "decks": 0.009,
+      "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Vapor Snag": {
+    "cardname": "Vapor Snag",
+    "mainboard": {
+      "decks": 0.009,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
     }
   },
   "Drown in Sorrow": {
@@ -3530,26 +3552,15 @@
       "avg": 2.1
     }
   },
-  "Fungal Infection": {
-    "cardname": "Fungal Infection",
+  "Militia Bugler": {
+    "cardname": "Militia Bugler",
     "mainboard": {
       "decks": 0.009,
-      "avg": 1.6
+      "avg": 2.6
     },
     "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
-    }
-  },
-  "Gingerbrute": {
-    "cardname": "Gingerbrute",
-    "mainboard": {
-      "decks": 0.009,
-      "avg": 3.2
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
+      "decks": 0,
+      "avg": 0
     }
   },
   "Myr Retriever": {
@@ -3557,6 +3568,17 @@
     "mainboard": {
       "decks": 0.009,
       "avg": 3.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Remote Isle": {
+    "cardname": "Remote Isle",
+    "mainboard": {
+      "decks": 0.009,
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -3574,70 +3596,26 @@
       "avg": 1.9
     }
   },
+  "Gingerbrute": {
+    "cardname": "Gingerbrute",
+    "mainboard": {
+      "decks": 0.009,
+      "avg": 3.2
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
   "Kabira Crossroads": {
     "cardname": "Kabira Crossroads",
     "mainboard": {
       "decks": 0.008,
-      "avg": 1.1
+      "avg": 1.2
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Pirate's Pillage": {
-    "cardname": "Pirate's Pillage",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 3.1
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 4.0
-    }
-  },
-  "Remote Isle": {
-    "cardname": "Remote Isle",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Tamiyo's Safekeeping": {
-    "cardname": "Tamiyo's Safekeeping",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0.025,
-      "avg": 2.3
-    }
-  },
-  "Vapor Snag": {
-    "cardname": "Vapor Snag",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
-  "Desert": {
-    "cardname": "Desert",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 1.7
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.6
     }
   },
   "Rustvale Bridge": {
@@ -3651,11 +3629,44 @@
       "avg": 0
     }
   },
-  "Sejiri Steppe": {
-    "cardname": "Sejiri Steppe",
+  "Tamiyo's Safekeeping": {
+    "cardname": "Tamiyo's Safekeeping",
     "mainboard": {
       "decks": 0.008,
-      "avg": 1.0
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.026,
+      "avg": 2.3
+    }
+  },
+  "Desert": {
+    "cardname": "Desert",
+    "mainboard": {
+      "decks": 0.008,
+      "avg": 1.8
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.7
+    }
+  },
+  "Golem Foundry": {
+    "cardname": "Golem Foundry",
+    "mainboard": {
+      "decks": 0.008,
+      "avg": 2.7
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.8
+    }
+  },
+  "Corrupted Conviction": {
+    "cardname": "Corrupted Conviction",
+    "mainboard": {
+      "decks": 0.008,
+      "avg": 2.2
     },
     "sideboard": {
       "decks": 0,
@@ -3673,17 +3684,6 @@
       "avg": 1.0
     }
   },
-  "Golem Foundry": {
-    "cardname": "Golem Foundry",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 2.7
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.8
-    }
-  },
   "Hunter's Blowgun": {
     "cardname": "Hunter's Blowgun",
     "mainboard": {
@@ -3695,22 +3695,33 @@
       "avg": 1.0
     }
   },
-  "Stormshriek Feral": {
-    "cardname": "Stormshriek Feral",
+  "Steadfast Unicorn": {
+    "cardname": "Steadfast Unicorn",
     "mainboard": {
       "decks": 0.008,
-      "avg": 1.9
+      "avg": 1.1
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Corrupted Conviction": {
-    "cardname": "Corrupted Conviction",
+  "Stormshriek Feral": {
+    "cardname": "Stormshriek Feral",
     "mainboard": {
       "decks": 0.008,
-      "avg": 2.2
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Nezumi Linkbreaker": {
+    "cardname": "Nezumi Linkbreaker",
+    "mainboard": {
+      "decks": 0.008,
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -3728,37 +3739,26 @@
       "avg": 1.0
     }
   },
-  "Scoured Barrens": {
-    "cardname": "Scoured Barrens",
+  "Sejiri Steppe": {
+    "cardname": "Sejiri Steppe",
     "mainboard": {
       "decks": 0.008,
-      "avg": 2.9
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Spirit Link": {
-    "cardname": "Spirit Link",
+  "Structural Distortion": {
+    "cardname": "Structural Distortion",
     "mainboard": {
       "decks": 0.008,
-      "avg": 2.8
+      "avg": 1.9
     },
     "sideboard": {
-      "decks": 0.009,
-      "avg": 1.5
-    }
-  },
-  "Steadfast Unicorn": {
-    "cardname": "Steadfast Unicorn",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 2.0
     }
   },
   "Tectonic Hazard": {
@@ -3769,29 +3769,7 @@
     },
     "sideboard": {
       "decks": 0.025,
-      "avg": 2.0
-    }
-  },
-  "Torch the Tower": {
-    "cardname": "Torch the Tower",
-    "mainboard": {
-      "decks": 0.008,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.2
-    }
-  },
-  "Humbling Elder": {
-    "cardname": "Humbling Elder",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
+      "avg": 1.9
     }
   },
   "Navigator's Compass": {
@@ -3805,28 +3783,6 @@
       "avg": 2.2
     }
   },
-  "Nezumi Linkbreaker": {
-    "cardname": "Nezumi Linkbreaker",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Structural Distortion": {
-    "cardname": "Structural Distortion",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 1.9
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
   "Suplex": {
     "cardname": "Suplex",
     "mainboard": {
@@ -3838,70 +3794,15 @@
       "avg": 2.0
     }
   },
-  "Wretched Gryff": {
-    "cardname": "Wretched Gryff",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
-  "Elite Interceptor": {
-    "cardname": "Elite Interceptor",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 2.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Inventor's Axe": {
-    "cardname": "Inventor's Axe",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Cartouche of Solidarity": {
-    "cardname": "Cartouche of Solidarity",
+  "Torch the Tower": {
+    "cardname": "Torch the Tower",
     "mainboard": {
       "decks": 0.007,
       "avg": 2.0
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.6
-    }
-  },
-  "Mardu Devotee": {
-    "cardname": "Mardu Devotee",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 3.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Thermo-Alchemist": {
-    "cardname": "Thermo-Alchemist",
-    "mainboard": {
-      "decks": 0.007,
-      "avg": 2.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "avg": 2.0
     }
   },
   "Vines of Vastwood": {
@@ -3915,15 +3816,103 @@
       "avg": 2.4
     }
   },
-  "Evolution Witness": {
-    "cardname": "Evolution Witness",
+  "Cartouche of Solidarity": {
+    "cardname": "Cartouche of Solidarity",
     "mainboard": {
       "decks": 0.007,
-      "avg": 1.2
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.6
+    }
+  },
+  "Elite Interceptor": {
+    "cardname": "Elite Interceptor",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Humbling Elder": {
+    "cardname": "Humbling Elder",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
+  "Inventor's Axe": {
+    "cardname": "Inventor's Axe",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 3.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Scoured Barrens": {
+    "cardname": "Scoured Barrens",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Spirit Link": {
+    "cardname": "Spirit Link",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.9
+    },
+    "sideboard": {
+      "decks": 0.009,
+      "avg": 1.6
+    }
+  },
+  "Thermo-Alchemist": {
+    "cardname": "Thermo-Alchemist",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Wretched Gryff": {
+    "cardname": "Wretched Gryff",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.8
     },
     "sideboard": {
       "decks": 0.0,
-      "avg": 2.5
+      "avg": 2.0
+    }
+  },
+  "Mardu Devotee": {
+    "cardname": "Mardu Devotee",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 3.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Molten Tributary": {
@@ -3935,6 +3924,39 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Evolution Witness": {
+    "cardname": "Evolution Witness",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.5
+    }
+  },
+  "Kenku Artificer": {
+    "cardname": "Kenku Artificer",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 1.6
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
+  "Spider Manifestation": {
+    "cardname": "Spider Manifestation",
+    "mainboard": {
+      "decks": 0.007,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
     }
   },
   "Unwind": {
@@ -3974,22 +3996,11 @@
     "cardname": "Beastrider Vanguard",
     "mainboard": {
       "decks": 0.006,
-      "avg": 1.3
+      "avg": 1.4
     },
     "sideboard": {
       "decks": 0.001,
       "avg": 1.0
-    }
-  },
-  "Boomerang": {
-    "cardname": "Boomerang",
-    "mainboard": {
-      "decks": 0.006,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0.002,
-      "avg": 1.6
     }
   },
   "Drift of Phantasms": {
@@ -4003,26 +4014,26 @@
       "avg": 0
     }
   },
-  "Hyena Umbra": {
-    "cardname": "Hyena Umbra",
+  "Grapple with Death": {
+    "cardname": "Grapple with Death",
     "mainboard": {
       "decks": 0.006,
-      "avg": 3.6
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0.004,
+      "avg": 1.6
+    }
+  },
+  "Myr Kinsmith": {
+    "cardname": "Myr Kinsmith",
+    "mainboard": {
+      "decks": 0.006,
+      "avg": 1.7
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Kenku Artificer": {
-    "cardname": "Kenku Artificer",
-    "mainboard": {
-      "decks": 0.006,
-      "avg": 1.6
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
     }
   },
   "Sazacap's Brew": {
@@ -4036,15 +4047,37 @@
       "avg": 0
     }
   },
-  "Spider Manifestation": {
-    "cardname": "Spider Manifestation",
+  "Boomerang": {
+    "cardname": "Boomerang",
     "mainboard": {
       "decks": 0.006,
       "avg": 2.4
     },
     "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
+      "decks": 0.002,
+      "avg": 1.6
+    }
+  },
+  "Duress": {
+    "cardname": "Duress",
+    "mainboard": {
+      "decks": 0.006,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0.148,
+      "avg": 2.7
+    }
+  },
+  "Fangren Marauder": {
+    "cardname": "Fangren Marauder",
+    "mainboard": {
+      "decks": 0.006,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0.008,
+      "avg": 1.8
     }
   },
   "Freed from the Real": {
@@ -4069,11 +4102,11 @@
       "avg": 0
     }
   },
-  "Myr Kinsmith": {
-    "cardname": "Myr Kinsmith",
+  "Hyena Umbra": {
+    "cardname": "Hyena Umbra",
     "mainboard": {
       "decks": 0.006,
-      "avg": 1.7
+      "avg": 3.5
     },
     "sideboard": {
       "decks": 0,
@@ -4091,17 +4124,6 @@
       "avg": 1.0
     }
   },
-  "Page, Loose Leaf": {
-    "cardname": "Page, Loose Leaf",
-    "mainboard": {
-      "decks": 0.006,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Shield-Wall Sentinel": {
     "cardname": "Shield-Wall Sentinel",
     "mainboard": {
@@ -4113,37 +4135,59 @@
       "avg": 0
     }
   },
-  "Duress": {
-    "cardname": "Duress",
+  "Deprive": {
+    "cardname": "Deprive",
     "mainboard": {
       "decks": 0.006,
-      "avg": 2.3
+      "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.149,
-      "avg": 2.7
+      "decks": 0,
+      "avg": 0
     }
   },
-  "Fangren Marauder": {
-    "cardname": "Fangren Marauder",
+  "Desperate Ritual": {
+    "cardname": "Desperate Ritual",
     "mainboard": {
       "decks": 0.006,
-      "avg": 2.6
+      "avg": 3.3
     },
     "sideboard": {
-      "decks": 0.008,
-      "avg": 1.9
+      "decks": 0,
+      "avg": 0
     }
   },
-  "Grapple with Death": {
-    "cardname": "Grapple with Death",
+  "Page, Loose Leaf": {
+    "cardname": "Page, Loose Leaf",
     "mainboard": {
       "decks": 0.006,
-      "avg": 1.1
+      "avg": 4.0
     },
     "sideboard": {
-      "decks": 0.004,
-      "avg": 1.6
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Razortide Bridge": {
+    "cardname": "Razortide Bridge",
+    "mainboard": {
+      "decks": 0.006,
+      "avg": 2.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Respite": {
+    "cardname": "Respite",
+    "mainboard": {
+      "decks": 0.006,
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Sadistic Glee": {
@@ -4168,6 +4212,17 @@
       "avg": 1.0
     }
   },
+  "Black Dragon Gate": {
+    "cardname": "Black Dragon Gate",
+    "mainboard": {
+      "decks": 0.006,
+      "avg": 3.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Fiery Cannonade": {
     "cardname": "Fiery Cannonade",
     "mainboard": {
@@ -4184,28 +4239,6 @@
     "mainboard": {
       "decks": 0.006,
       "avg": 2.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Molten Gatekeeper": {
-    "cardname": "Molten Gatekeeper",
-    "mainboard": {
-      "decks": 0.006,
-      "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Razortide Bridge": {
-    "cardname": "Razortide Bridge",
-    "mainboard": {
-      "decks": 0.006,
-      "avg": 2.9
     },
     "sideboard": {
       "decks": 0,
@@ -4234,22 +4267,11 @@
       "avg": 0
     }
   },
-  "Black Dragon Gate": {
-    "cardname": "Black Dragon Gate",
+  "Molten Gatekeeper": {
+    "cardname": "Molten Gatekeeper",
     "mainboard": {
       "decks": 0.006,
       "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Deprive": {
-    "cardname": "Deprive",
-    "mainboard": {
-      "decks": 0.006,
-      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -4278,66 +4300,33 @@
       "avg": 1.0
     }
   },
-  "Respite": {
-    "cardname": "Respite",
+  "Lifelink": {
+    "cardname": "Lifelink",
     "mainboard": {
-      "decks": 0.006,
-      "avg": 1.0
+      "decks": 0.005,
+      "avg": 1.1
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.005,
+      "avg": 1.5
     }
   },
   "Salt Road Packbeast": {
     "cardname": "Salt Road Packbeast",
     "mainboard": {
-      "decks": 0.006,
-      "avg": 3.7
+      "decks": 0.005,
+      "avg": 3.8
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Reckless Lackey": {
-    "cardname": "Reckless Lackey",
+  "Artful Dodge": {
+    "cardname": "Artful Dodge",
     "mainboard": {
       "decks": 0.005,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Secret Door": {
-    "cardname": "Secret Door",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Akroan Skyguard": {
-    "cardname": "Akroan Skyguard",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Desperate Ritual": {
-    "cardname": "Desperate Ritual",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 3.3
+      "avg": 1.2
     },
     "sideboard": {
       "decks": 0,
@@ -4355,33 +4344,11 @@
       "avg": 1.6
     }
   },
-  "Illvoi Galeblade": {
-    "cardname": "Illvoi Galeblade",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Lagonna-Band Trailblazer": {
-    "cardname": "Lagonna-Band Trailblazer",
+  "Reckless Lackey": {
+    "cardname": "Reckless Lackey",
     "mainboard": {
       "decks": 0.005,
       "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Retraction Helix": {
-    "cardname": "Retraction Helix",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 2.7
     },
     "sideboard": {
       "decks": 0,
@@ -4410,17 +4377,6 @@
       "avg": 1.0
     }
   },
-  "Ulamog's Crusher": {
-    "cardname": "Ulamog's Crusher",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.4
-    }
-  },
   "Valakut Invoker": {
     "cardname": "Valakut Invoker",
     "mainboard": {
@@ -4432,37 +4388,48 @@
       "avg": 1.0
     }
   },
-  "Artful Dodge": {
-    "cardname": "Artful Dodge",
+  "Akroan Skyguard": {
+    "cardname": "Akroan Skyguard",
     "mainboard": {
       "decks": 0.005,
-      "avg": 1.2
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Demand Answers": {
-    "cardname": "Demand Answers",
+  "Lagonna-Band Trailblazer": {
+    "cardname": "Lagonna-Band Trailblazer",
     "mainboard": {
       "decks": 0.005,
-      "avg": 1.7
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Lifelink": {
-    "cardname": "Lifelink",
+  "Retraction Helix": {
+    "cardname": "Retraction Helix",
     "mainboard": {
       "decks": 0.005,
-      "avg": 1.1
+      "avg": 2.7
     },
     "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Secret Door": {
+    "cardname": "Secret Door",
+    "mainboard": {
       "decks": 0.005,
-      "avg": 1.6
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Springleaf Drum": {
@@ -4487,6 +4454,17 @@
       "avg": 0
     }
   },
+  "Ulamog's Crusher": {
+    "cardname": "Ulamog's Crusher",
+    "mainboard": {
+      "decks": 0.005,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.4
+    }
+  },
   "Apostle's Blessing": {
     "cardname": "Apostle's Blessing",
     "mainboard": {
@@ -4498,22 +4476,22 @@
       "avg": 2.1
     }
   },
-  "Benevolent Blessing": {
-    "cardname": "Benevolent Blessing",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 3.7
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.8
-    }
-  },
   "Cabal Ritual": {
     "cardname": "Cabal Ritual",
     "mainboard": {
       "decks": 0.005,
-      "avg": 3.1
+      "avg": 3.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Demand Answers": {
+    "cardname": "Demand Answers",
+    "mainboard": {
+      "decks": 0.005,
+      "avg": 1.6
     },
     "sideboard": {
       "decks": 0,
@@ -4553,17 +4531,6 @@
       "avg": 4.0
     }
   },
-  "Homestead Courage": {
-    "cardname": "Homestead Courage",
-    "mainboard": {
-      "decks": 0.005,
-      "avg": 3.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Horror of the Broken Lands": {
     "cardname": "Horror of the Broken Lands",
     "mainboard": {
@@ -4584,6 +4551,17 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 2.0
+    }
+  },
+  "Illvoi Galeblade": {
+    "cardname": "Illvoi Galeblade",
+    "mainboard": {
+      "decks": 0.005,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Imposing Vantasaur": {
@@ -4608,15 +4586,26 @@
       "avg": 0
     }
   },
-  "Skyward Spider": {
-    "cardname": "Skyward Spider",
+  "Shattered Acolyte": {
+    "cardname": "Shattered Acolyte",
     "mainboard": {
       "decks": 0.005,
-      "avg": 3.6
+      "avg": 2.7
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.011,
+      "avg": 3.0
+    }
+  },
+  "Benevolent Blessing": {
+    "cardname": "Benevolent Blessing",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.8
     }
   },
   "Blight Mamba": {
@@ -4641,26 +4630,26 @@
       "avg": 0
     }
   },
-  "Emerge Unscathed": {
-    "cardname": "Emerge Unscathed",
+  "Foil": {
+    "cardname": "Foil",
     "mainboard": {
       "decks": 0.004,
-      "avg": 2.7
+      "avg": 2.0
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 2.0
+      "decks": 0,
+      "avg": 0
     }
   },
-  "Goliath Paladin": {
-    "cardname": "Goliath Paladin",
+  "Homestead Courage": {
+    "cardname": "Homestead Courage",
     "mainboard": {
       "decks": 0.004,
-      "avg": 2.0
+      "avg": 3.5
     },
     "sideboard": {
-      "decks": 0.009,
-      "avg": 1.3
+      "decks": 0,
+      "avg": 0
     }
   },
   "Might of Old Krosa": {
@@ -4674,11 +4663,99 @@
       "avg": 0
     }
   },
+  "Rowan's Grim Search": {
+    "cardname": "Rowan's Grim Search",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 3.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Skyward Spider": {
+    "cardname": "Skyward Spider",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Colossal Dreadmask": {
+    "cardname": "Colossal Dreadmask",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Dimension X": {
+    "cardname": "Dimension X",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 3.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Emerge Unscathed": {
+    "cardname": "Emerge Unscathed",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 2.6
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 2.0
+    }
+  },
+  "Goliath Paladin": {
+    "cardname": "Goliath Paladin",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0.009,
+      "avg": 1.3
+    }
+  },
   "Monstrous Carabid": {
     "cardname": "Monstrous Carabid",
     "mainboard": {
       "decks": 0.004,
-      "avg": 3.0
+      "avg": 2.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Mysidian Elder": {
+    "cardname": "Mysidian Elder",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.6
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Nest Invader": {
+    "cardname": "Nest Invader",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 3.7
     },
     "sideboard": {
       "decks": 0,
@@ -4707,11 +4784,44 @@
       "avg": 0
     }
   },
-  "Rowan's Grim Search": {
-    "cardname": "Rowan's Grim Search",
+  "Remove Soul": {
+    "cardname": "Remove Soul",
     "mainboard": {
       "decks": 0.004,
-      "avg": 3.4
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0.006,
+      "avg": 1.6
+    }
+  },
+  "Rolling Thunder": {
+    "cardname": "Rolling Thunder",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0.006,
+      "avg": 1.0
+    }
+  },
+  "Sunken City": {
+    "cardname": "Sunken City",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.3
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 1.0
+    }
+  },
+  "Adventurer's Inn": {
+    "cardname": "Adventurer's Inn",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.1
     },
     "sideboard": {
       "decks": 0,
@@ -4729,17 +4839,6 @@
       "avg": 0
     }
   },
-  "Dimension X": {
-    "cardname": "Dimension X",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 3.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Experimental Augury": {
     "cardname": "Experimental Augury",
     "mainboard": {
@@ -4751,59 +4850,59 @@
       "avg": 0
     }
   },
-  "Foil": {
-    "cardname": "Foil",
+  "Fang Dragon": {
+    "cardname": "Fang Dragon",
     "mainboard": {
       "decks": 0.004,
-      "avg": 1.9
+      "avg": 1.3
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.011,
+      "avg": 2.5
+    }
+  },
+  "Gruul Turf": {
+    "cardname": "Gruul Turf",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0.01,
+      "avg": 1.7
     }
   },
   "Jaspera Sentinel": {
     "cardname": "Jaspera Sentinel",
     "mainboard": {
       "decks": 0.004,
-      "avg": 3.2
+      "avg": 3.3
     },
     "sideboard": {
       "decks": 0.0,
       "avg": 1.0
     }
   },
-  "Mysidian Elder": {
-    "cardname": "Mysidian Elder",
+  "Llanowar Augur": {
+    "cardname": "Llanowar Augur",
     "mainboard": {
       "decks": 0.004,
-      "avg": 1.6
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0.0,
-      "avg": 1.0
+      "avg": 2.0
     }
   },
   "Prologue to Phyresis": {
     "cardname": "Prologue to Phyresis",
     "mainboard": {
       "decks": 0.004,
-      "avg": 1.5
+      "avg": 1.6
     },
     "sideboard": {
       "decks": 0.0,
       "avg": 1.0
-    }
-  },
-  "Remove Soul": {
-    "cardname": "Remove Soul",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.006,
-      "avg": 1.6
     }
   },
   "Saprazzan Skerry": {
@@ -4817,26 +4916,37 @@
       "avg": 0
     }
   },
-  "Steady Progress": {
-    "cardname": "Steady Progress",
+  "Search Party Captain": {
+    "cardname": "Search Party Captain",
     "mainboard": {
       "decks": 0.004,
-      "avg": 2.6
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Sunken City": {
-    "cardname": "Sunken City",
+  "Steady Progress": {
+    "cardname": "Steady Progress",
     "mainboard": {
       "decks": 0.004,
-      "avg": 1.3
+      "avg": 2.7
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.0
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Survivors' Encampment": {
+    "cardname": "Survivors' Encampment",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Thirsting Roots": {
@@ -4861,17 +4971,6 @@
       "avg": 0
     }
   },
-  "Adventurer's Inn": {
-    "cardname": "Adventurer's Inn",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Devoted Druid": {
     "cardname": "Devoted Druid",
     "mainboard": {
@@ -4883,6 +4982,17 @@
       "avg": 0
     }
   },
+  "Foot Ninjas": {
+    "cardname": "Foot Ninjas",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
   "Gnaw to the Bone": {
     "cardname": "Gnaw to the Bone",
     "mainboard": {
@@ -4890,7 +5000,7 @@
       "avg": 2.9
     },
     "sideboard": {
-      "decks": 0.01,
+      "decks": 0.009,
       "avg": 2.9
     }
   },
@@ -4899,138 +5009,6 @@
     "mainboard": {
       "decks": 0.004,
       "avg": 3.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Llanowar Augur": {
-    "cardname": "Llanowar Augur",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
-  "Nest Invader": {
-    "cardname": "Nest Invader",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 3.7
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Rolling Thunder": {
-    "cardname": "Rolling Thunder",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0.005,
-      "avg": 1.0
-    }
-  },
-  "Search Party Captain": {
-    "cardname": "Search Party Captain",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Shattered Acolyte": {
-    "cardname": "Shattered Acolyte",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 2.6
-    },
-    "sideboard": {
-      "decks": 0.01,
-      "avg": 3.0
-    }
-  },
-  "Colossal Dreadmask": {
-    "cardname": "Colossal Dreadmask",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Fang Dragon": {
-    "cardname": "Fang Dragon",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.3
-    },
-    "sideboard": {
-      "decks": 0.01,
-      "avg": 2.5
-    }
-  },
-  "Focus the Mind": {
-    "cardname": "Focus the Mind",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.7
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 4.0
-    }
-  },
-  "Gruul Turf": {
-    "cardname": "Gruul Turf",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.2
-    },
-    "sideboard": {
-      "decks": 0.01,
-      "avg": 1.7
-    }
-  },
-  "Infectious Inquiry": {
-    "cardname": "Infectious Inquiry",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Perilous Research": {
-    "cardname": "Perilous Research",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Pond Prophet": {
-    "cardname": "Pond Prophet",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 3.6
     },
     "sideboard": {
       "decks": 0,
@@ -5059,17 +5037,6 @@
       "avg": 0
     }
   },
-  "Survivors' Encampment": {
-    "cardname": "Survivors' Encampment",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 2.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Unable to Scream": {
     "cardname": "Unable to Scream",
     "mainboard": {
@@ -5078,7 +5045,7 @@
     },
     "sideboard": {
       "decks": 0.005,
-      "avg": 2.1
+      "avg": 2.2
     }
   },
   "Crashing Drawbridge": {
@@ -5092,33 +5059,44 @@
       "avg": 0
     }
   },
-  "Foot Ninjas": {
-    "cardname": "Foot Ninjas",
+  "Ethereal Haze": {
+    "cardname": "Ethereal Haze",
     "mainboard": {
       "decks": 0.004,
-      "avg": 1.9
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 1.0
+    }
+  },
+  "Focus the Mind": {
+    "cardname": "Focus the Mind",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 1.8
     },
     "sideboard": {
       "decks": 0.0,
-      "avg": 2.0
+      "avg": 4.0
     }
   },
-  "Glistener Seer": {
-    "cardname": "Glistener Seer",
+  "Foot Headquarters": {
+    "cardname": "Foot Headquarters",
     "mainboard": {
       "decks": 0.004,
-      "avg": 3.9
+      "avg": 3.2
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Guac & Marshmallow Pizza": {
-    "cardname": "Guac & Marshmallow Pizza",
+  "Infectious Inquiry": {
+    "cardname": "Infectious Inquiry",
     "mainboard": {
       "decks": 0.004,
-      "avg": 3.1
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -5133,14 +5111,36 @@
     },
     "sideboard": {
       "decks": 0.006,
-      "avg": 2.1
+      "avg": 2.2
     }
   },
-  "Persistent Petitioners": {
-    "cardname": "Persistent Petitioners",
+  "Perigee Beckoner": {
+    "cardname": "Perigee Beckoner",
     "mainboard": {
       "decks": 0.004,
-      "avg": 10.3
+      "avg": 3.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Perilous Research": {
+    "cardname": "Perilous Research",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Pond Prophet": {
+    "cardname": "Pond Prophet",
+    "mainboard": {
+      "decks": 0.004,
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0,
@@ -5163,28 +5163,6 @@
     "mainboard": {
       "decks": 0.004,
       "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Scour from Existence": {
-    "cardname": "Scour from Existence",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0.005,
-      "avg": 2.2
-    }
-  },
-  "Teach by Example": {
-    "cardname": "Teach by Example",
-    "mainboard": {
-      "decks": 0.004,
-      "avg": 1.8
     },
     "sideboard": {
       "decks": 0,
@@ -5224,11 +5202,11 @@
       "avg": 0
     }
   },
-  "Foot Headquarters": {
-    "cardname": "Foot Headquarters",
+  "Glistener Seer": {
+    "cardname": "Glistener Seer",
     "mainboard": {
       "decks": 0.003,
-      "avg": 3.2
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -5246,26 +5224,37 @@
       "avg": 0
     }
   },
-  "Perigee Beckoner": {
-    "cardname": "Perigee Beckoner",
+  "Guac & Marshmallow Pizza": {
+    "cardname": "Guac & Marshmallow Pizza",
     "mainboard": {
       "decks": 0.003,
-      "avg": 3.7
+      "avg": 3.1
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Raphael, Tough Turtle": {
-    "cardname": "Raphael, Tough Turtle",
+  "Persistent Petitioners": {
+    "cardname": "Persistent Petitioners",
     "mainboard": {
       "decks": 0.003,
-      "avg": 1.6
+      "avg": 10.3
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Scour from Existence": {
+    "cardname": "Scour from Existence",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 2.7
+    },
+    "sideboard": {
+      "decks": 0.005,
+      "avg": 2.2
     }
   },
   "Seal of Strength": {
@@ -5279,6 +5268,28 @@
       "avg": 2.1
     }
   },
+  "Snaremaster Sprite": {
+    "cardname": "Snaremaster Sprite",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 1.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Teach by Example": {
+    "cardname": "Teach by Example",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 1.7
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Birchlore Rangers": {
     "cardname": "Birchlore Rangers",
     "mainboard": {
@@ -5290,15 +5301,15 @@
       "avg": 0
     }
   },
-  "Ethereal Haze": {
-    "cardname": "Ethereal Haze",
+  "Exhume": {
+    "cardname": "Exhume",
     "mainboard": {
       "decks": 0.003,
-      "avg": 1.0
+      "avg": 3.6
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.0
+      "decks": 0,
+      "avg": 0
     }
   },
   "Kiln Fiend": {
@@ -5345,6 +5356,17 @@
       "avg": 0
     }
   },
+  "Raphael, Tough Turtle": {
+    "cardname": "Raphael, Tough Turtle",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 1.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Stone Rain": {
     "cardname": "Stone Rain",
     "mainboard": {
@@ -5378,17 +5400,6 @@
       "avg": 1.0
     }
   },
-  "World Map": {
-    "cardname": "World Map",
-    "mainboard": {
-      "decks": 0.003,
-      "avg": 2.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Banishing Knack": {
     "cardname": "Banishing Knack",
     "mainboard": {
@@ -5411,6 +5422,17 @@
       "avg": 1.4
     }
   },
+  "Burning Curiosity": {
+    "cardname": "Burning Curiosity",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 2.1
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Consider": {
     "cardname": "Consider",
     "mainboard": {
@@ -5430,18 +5452,7 @@
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.8
-    }
-  },
-  "Exhume": {
-    "cardname": "Exhume",
-    "mainboard": {
-      "decks": 0.003,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "avg": 1.5
     }
   },
   "Fire / Ice": {
@@ -5466,26 +5477,15 @@
       "avg": 0
     }
   },
-  "Masked Meower": {
-    "cardname": "Masked Meower",
+  "Mana Leak": {
+    "cardname": "Mana Leak",
     "mainboard": {
       "decks": 0.003,
-      "avg": 3.7
+      "avg": 1.6
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 4.0
-    }
-  },
-  "Snaremaster Sprite": {
-    "cardname": "Snaremaster Sprite",
-    "mainboard": {
-      "decks": 0.003,
-      "avg": 1.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "avg": 2.0
     }
   },
   "Temur Battle Rage": {
@@ -5499,6 +5499,28 @@
       "avg": 2.0
     }
   },
+  "Thriving Grove": {
+    "cardname": "Thriving Grove",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "World Map": {
+    "cardname": "World Map",
+    "mainboard": {
+      "decks": 0.003,
+      "avg": 2.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Ardent Elementalist": {
     "cardname": "Ardent Elementalist",
     "mainboard": {
@@ -5510,37 +5532,15 @@
       "avg": 2.0
     }
   },
-  "Burning Curiosity": {
-    "cardname": "Burning Curiosity",
-    "mainboard": {
-      "decks": 0.003,
-      "avg": 2.2
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Cast into the Fire": {
     "cardname": "Cast into the Fire",
     "mainboard": {
       "decks": 0.003,
-      "avg": 1.3
-    },
-    "sideboard": {
-      "decks": 0.185,
-      "avg": 2.6
-    }
-  },
-  "Crypt Incursion": {
-    "cardname": "Crypt Incursion",
-    "mainboard": {
-      "decks": 0.003,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.007,
       "avg": 1.2
+    },
+    "sideboard": {
+      "decks": 0.186,
+      "avg": 2.6
     }
   },
   "Frantic Inventory": {
@@ -5565,26 +5565,26 @@
       "avg": 2.0
     }
   },
-  "Mana Leak": {
-    "cardname": "Mana Leak",
+  "Masked Meower": {
+    "cardname": "Masked Meower",
     "mainboard": {
       "decks": 0.003,
-      "avg": 1.7
+      "avg": 3.7
     },
     "sideboard": {
-      "decks": 0.0,
-      "avg": 2.5
+      "decks": 0.001,
+      "avg": 4.0
     }
   },
-  "Mothdust Changeling": {
-    "cardname": "Mothdust Changeling",
+  "Primordial Pachyderm": {
+    "cardname": "Primordial Pachyderm",
     "mainboard": {
       "decks": 0.003,
-      "avg": 3.2
+      "avg": 2.5
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.015,
+      "avg": 2.5
     }
   },
   "Remote Farm": {
@@ -5609,26 +5609,26 @@
       "avg": 0
     }
   },
-  "Secluded Steppe": {
-    "cardname": "Secluded Steppe",
+  "Call Damage Control": {
+    "cardname": "Call Damage Control",
     "mainboard": {
-      "decks": 0.003,
+      "decks": 0.002,
       "avg": 1.7
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 2.0
     }
   },
-  "Thriving Grove": {
-    "cardname": "Thriving Grove",
+  "Crypt Incursion": {
+    "cardname": "Crypt Incursion",
     "mainboard": {
-      "decks": 0.003,
-      "avg": 2.1
+      "decks": 0.002,
+      "avg": 1.0
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.007,
+      "avg": 1.2
     }
   },
   "Darkness": {
@@ -5639,7 +5639,7 @@
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 2.3
+      "avg": 2.5
     }
   },
   "Dawnbringer Cleric": {
@@ -5649,19 +5649,8 @@
       "avg": 1.1
     },
     "sideboard": {
-      "decks": 0.007,
-      "avg": 1.7
-    }
-  },
-  "Dragon Wings": {
-    "cardname": "Dragon Wings",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.1
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.008,
+      "avg": 1.8
     }
   },
   "Festival Crasher": {
@@ -5708,11 +5697,11 @@
       "avg": 1.5
     }
   },
-  "Hidden Grotto": {
-    "cardname": "Hidden Grotto",
+  "Gray Merchant of Asphodel": {
+    "cardname": "Gray Merchant of Asphodel",
     "mainboard": {
       "decks": 0.002,
-      "avg": 1.4
+      "avg": 3.9
     },
     "sideboard": {
       "decks": 0,
@@ -5730,103 +5719,15 @@
       "avg": 2.0
     }
   },
-  "Open the Gates": {
-    "cardname": "Open the Gates",
+  "Mothdust Changeling": {
+    "cardname": "Mothdust Changeling",
     "mainboard": {
       "decks": 0.002,
-      "avg": 3.6
+      "avg": 3.2
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Primordial Pachyderm": {
-    "cardname": "Primordial Pachyderm",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0.016,
-      "avg": 2.5
-    }
-  },
-  "Ancestral Anger": {
-    "cardname": "Ancestral Anger",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Darksteel Citadel": {
-    "cardname": "Darksteel Citadel",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 2.7
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Disrupt": {
-    "cardname": "Disrupt",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.9
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.7
-    }
-  },
-  "Distant Melody": {
-    "cardname": "Distant Melody",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Entourage of Trest": {
-    "cardname": "Entourage of Trest",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.3
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Heliod's Pilgrim": {
-    "cardname": "Heliod's Pilgrim",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.2
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Kaervek's Torch": {
-    "cardname": "Kaervek's Torch",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.9
-    },
-    "sideboard": {
-      "decks": 0.011,
-      "avg": 1.1
     }
   },
   "Muscle Sliver": {
@@ -5834,6 +5735,17 @@
     "mainboard": {
       "decks": 0.002,
       "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Open the Gates": {
+    "cardname": "Open the Gates",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 3.6
     },
     "sideboard": {
       "decks": 0,
@@ -5862,11 +5774,11 @@
       "avg": 0
     }
   },
-  "Reckless Charge": {
-    "cardname": "Reckless Charge",
+  "Secluded Steppe": {
+    "cardname": "Secluded Steppe",
     "mainboard": {
       "decks": 0.002,
-      "avg": 2.4
+      "avg": 1.7
     },
     "sideboard": {
       "decks": 0,
@@ -5884,6 +5796,149 @@
       "avg": 0
     }
   },
+  "Sinew Sliver": {
+    "cardname": "Sinew Sliver",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Ancestral Anger": {
+    "cardname": "Ancestral Anger",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 3.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Darksteel Citadel": {
+    "cardname": "Darksteel Citadel",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 2.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Disrupt": {
+    "cardname": "Disrupt",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.7
+    }
+  },
+  "Distant Melody": {
+    "cardname": "Distant Melody",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Dragon Wings": {
+    "cardname": "Dragon Wings",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.1
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Entourage of Trest": {
+    "cardname": "Entourage of Trest",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.3
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Gemhide Sliver": {
+    "cardname": "Gemhide Sliver",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Hidden Grotto": {
+    "cardname": "Hidden Grotto",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.3
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Horrific Assault": {
+    "cardname": "Horrific Assault",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.006,
+      "avg": 1.9
+    }
+  },
+  "Kaervek's Torch": {
+    "cardname": "Kaervek's Torch",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.9
+    },
+    "sideboard": {
+      "decks": 0.012,
+      "avg": 1.1
+    }
+  },
+  "Potioner's Trove": {
+    "cardname": "Potioner's Trove",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Reckless Charge": {
+    "cardname": "Reckless Charge",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Serpentine Curve": {
     "cardname": "Serpentine Curve",
     "mainboard": {
@@ -5895,11 +5950,11 @@
       "avg": 1.0
     }
   },
-  "Sinew Sliver": {
-    "cardname": "Sinew Sliver",
+  "Sidewinder Sliver": {
+    "cardname": "Sidewinder Sliver",
     "mainboard": {
       "decks": 0.002,
-      "avg": 4.0
+      "avg": 3.7
     },
     "sideboard": {
       "decks": 0,
@@ -5939,22 +5994,22 @@
       "avg": 0
     }
   },
-  "Assault Strobe": {
-    "cardname": "Assault Strobe",
+  "Tree of Tales": {
+    "cardname": "Tree of Tales",
     "mainboard": {
       "decks": 0.002,
-      "avg": 3.2
+      "avg": 2.9
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Bellowing Crier": {
-    "cardname": "Bellowing Crier",
+  "Assault Strobe": {
+    "cardname": "Assault Strobe",
     "mainboard": {
       "decks": 0.002,
-      "avg": 1.9
+      "avg": 3.2
     },
     "sideboard": {
       "decks": 0,
@@ -5968,19 +6023,8 @@
       "avg": 1.9
     },
     "sideboard": {
-      "decks": 0.268,
+      "decks": 0.269,
       "avg": 2.9
-    }
-  },
-  "Call Damage Control": {
-    "cardname": "Call Damage Control",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.8
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
     }
   },
   "Commune with Spirits": {
@@ -5992,6 +6036,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Cuombajj Witches": {
+    "cardname": "Cuombajj Witches",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0.004,
+      "avg": 2.6
     }
   },
   "Doom Blade": {
@@ -6027,37 +6082,15 @@
       "avg": 1.7
     }
   },
-  "Gemhide Sliver": {
-    "cardname": "Gemhide Sliver",
+  "Heliod's Pilgrim": {
+    "cardname": "Heliod's Pilgrim",
     "mainboard": {
       "decks": 0.002,
-      "avg": 4.0
+      "avg": 1.1
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Gray Merchant of Asphodel": {
-    "cardname": "Gray Merchant of Asphodel",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 3.9
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Horrific Assault": {
-    "cardname": "Horrific Assault",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 2.4
-    },
-    "sideboard": {
-      "decks": 0.006,
-      "avg": 2.0
     }
   },
   "Instant Ramen": {
@@ -6082,22 +6115,22 @@
       "avg": 0
     }
   },
-  "Merchant Scroll": {
-    "cardname": "Merchant Scroll",
+  "Nettle Sentinel": {
+    "cardname": "Nettle Sentinel",
     "mainboard": {
       "decks": 0.002,
-      "avg": 1.0
+      "avg": 3.4
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Nettle Sentinel": {
-    "cardname": "Nettle Sentinel",
+  "Quandrix Campus": {
+    "cardname": "Quandrix Campus",
     "mainboard": {
       "decks": 0.002,
-      "avg": 3.4
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -6137,15 +6170,15 @@
       "avg": 0
     }
   },
-  "Sidewinder Sliver": {
-    "cardname": "Sidewinder Sliver",
+  "Sign in Blood": {
+    "cardname": "Sign in Blood",
     "mainboard": {
       "decks": 0.002,
-      "avg": 3.7
+      "avg": 3.2
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Simian Spirit Guide": {
@@ -6159,17 +6192,6 @@
       "avg": 0
     }
   },
-  "Smoke Shroud": {
-    "cardname": "Smoke Shroud",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.6
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
   "Summon: Choco/Mog": {
     "cardname": "Summon: Choco/Mog",
     "mainboard": {
@@ -6181,17 +6203,6 @@
       "avg": 1.0
     }
   },
-  "Tree of Tales": {
-    "cardname": "Tree of Tales",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 2.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Troublemaker Ouphe": {
     "cardname": "Troublemaker Ouphe",
     "mainboard": {
@@ -6201,6 +6212,17 @@
     "sideboard": {
       "decks": 0.097,
       "avg": 2.1
+    }
+  },
+  "Virulent Sliver": {
+    "cardname": "Virulent Sliver",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 3.6
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "You Meet in a Tavern": {
@@ -6218,11 +6240,22 @@
     "cardname": "Arms of Hadar",
     "mainboard": {
       "decks": 0.002,
-      "avg": 1.0
+      "avg": 1.1
     },
     "sideboard": {
       "decks": 0.112,
       "avg": 1.6
+    }
+  },
+  "Bellowing Crier": {
+    "cardname": "Bellowing Crier",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Bristling Backwoods": {
@@ -6243,7 +6276,7 @@
       "avg": 1.3
     },
     "sideboard": {
-      "decks": 0.002,
+      "decks": 0.003,
       "avg": 1.6
     }
   },
@@ -6269,17 +6302,6 @@
       "avg": 0
     }
   },
-  "Cuombajj Witches": {
-    "cardname": "Cuombajj Witches",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 3.6
-    },
-    "sideboard": {
-      "decks": 0.004,
-      "avg": 2.6
-    }
-  },
   "Elvish Vanguard": {
     "cardname": "Elvish Vanguard",
     "mainboard": {
@@ -6289,6 +6311,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Faerie Macabre": {
+    "cardname": "Faerie Macabre",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.4
+    },
+    "sideboard": {
+      "decks": 0.207,
+      "avg": 2.2
     }
   },
   "Foul-Tongue Shriek": {
@@ -6324,6 +6357,17 @@
       "avg": 0
     }
   },
+  "Laughing Mad": {
+    "cardname": "Laughing Mad",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 2.9
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Mana Tithe": {
     "cardname": "Mana Tithe",
     "mainboard": {
@@ -6333,6 +6377,17 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 2.2
+    }
+  },
+  "Merchant Scroll": {
+    "cardname": "Merchant Scroll",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Pest Mascot": {
@@ -6346,37 +6401,15 @@
       "avg": 0
     }
   },
-  "Potioner's Trove": {
-    "cardname": "Potioner's Trove",
+  "Smoke Shroud": {
+    "cardname": "Smoke Shroud",
     "mainboard": {
       "decks": 0.002,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Quandrix Campus": {
-    "cardname": "Quandrix Campus",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Sign in Blood": {
-    "cardname": "Sign in Blood",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 3.1
+      "avg": 1.6
     },
     "sideboard": {
       "decks": 0.0,
-      "avg": 1.0
+      "avg": 2.0
     }
   },
   "Snarling Gorehound": {
@@ -6390,26 +6423,15 @@
       "avg": 0
     }
   },
-  "Temporal Intervention": {
-    "cardname": "Temporal Intervention",
+  "Winged Sliver": {
+    "cardname": "Winged Sliver",
     "mainboard": {
       "decks": 0.002,
-      "avg": 2.0
+      "avg": 1.9
     },
     "sideboard": {
-      "decks": 0.01,
-      "avg": 2.5
-    }
-  },
-  "Virulent Sliver": {
-    "cardname": "Virulent Sliver",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 3.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Acorn Harvest": {
@@ -6431,7 +6453,7 @@
     },
     "sideboard": {
       "decks": 0.006,
-      "avg": 2.9
+      "avg": 2.8
     }
   },
   "Blessed Hippogriff": {
@@ -6452,8 +6474,19 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.0,
+      "decks": 0.001,
       "avg": 1.0
+    }
+  },
+  "Chittering Rats": {
+    "cardname": "Chittering Rats",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 3.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Destroy Evil": {
@@ -6464,7 +6497,18 @@
     },
     "sideboard": {
       "decks": 0.025,
-      "avg": 1.7
+      "avg": 1.6
+    }
+  },
+  "Dihada's Ploy": {
+    "cardname": "Dihada's Ploy",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 3.1
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Dismal Backwater": {
@@ -6498,17 +6542,6 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.0
-    }
-  },
-  "Faerie Macabre": {
-    "cardname": "Faerie Macabre",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.3
-    },
-    "sideboard": {
-      "decks": 0.206,
-      "avg": 2.2
     }
   },
   "Galvanic Discharge": {
@@ -6577,17 +6610,6 @@
       "avg": 1.0
     }
   },
-  "Mistblade Shinobi": {
-    "cardname": "Mistblade Shinobi",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.4
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Palace Sentinels": {
     "cardname": "Palace Sentinels",
     "mainboard": {
@@ -6618,7 +6640,7 @@
     },
     "sideboard": {
       "decks": 0.017,
-      "avg": 2.0
+      "avg": 1.9
     }
   },
   "Sprout Swarm": {
@@ -6630,6 +6652,17 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 1.0
+    }
+  },
+  "Temporal Intervention": {
+    "cardname": "Temporal Intervention",
+    "mainboard": {
+      "decks": 0.002,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.01,
+      "avg": 2.5
     }
   },
   "Thriving Heath": {
@@ -6650,7 +6683,7 @@
       "avg": 2.1
     },
     "sideboard": {
-      "decks": 0.033,
+      "decks": 0.032,
       "avg": 2.1
     }
   },
@@ -6665,17 +6698,6 @@
       "avg": 1.0
     }
   },
-  "Winged Sliver": {
-    "cardname": "Winged Sliver",
-    "mainboard": {
-      "decks": 0.002,
-      "avg": 1.9
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
   "Annul": {
     "cardname": "Annul",
     "mainboard": {
@@ -6683,7 +6705,7 @@
       "avg": 2.0
     },
     "sideboard": {
-      "decks": 0.151,
+      "decks": 0.152,
       "avg": 2.9
     }
   },
@@ -6709,17 +6731,6 @@
       "avg": 1.5
     }
   },
-  "Chittering Rats": {
-    "cardname": "Chittering Rats",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 3.3
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Chromatic Sphere": {
     "cardname": "Chromatic Sphere",
     "mainboard": {
@@ -6738,7 +6749,7 @@
       "avg": 1.3
     },
     "sideboard": {
-      "decks": 0.005,
+      "decks": 0.006,
       "avg": 1.7
     }
   },
@@ -6749,8 +6760,8 @@
       "avg": 1.3
     },
     "sideboard": {
-      "decks": 0.018,
-      "avg": 2.6
+      "decks": 0.017,
+      "avg": 2.5
     }
   },
   "Dark-Dweller Oracle": {
@@ -6775,17 +6786,6 @@
       "avg": 0
     }
   },
-  "Dihada's Ploy": {
-    "cardname": "Dihada's Ploy",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 3.2
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Envelop": {
     "cardname": "Envelop",
     "mainboard": {
@@ -6793,7 +6793,7 @@
       "avg": 1.7
     },
     "sideboard": {
-      "decks": 0.113,
+      "decks": 0.111,
       "avg": 1.8
     }
   },
@@ -6830,11 +6830,11 @@
       "avg": 0
     }
   },
-  "Laughing Mad": {
-    "cardname": "Laughing Mad",
+  "Mistblade Shinobi": {
+    "cardname": "Mistblade Shinobi",
     "mainboard": {
       "decks": 0.001,
-      "avg": 2.8
+      "avg": 1.5
     },
     "sideboard": {
       "decks": 0,
@@ -6870,19 +6870,8 @@
       "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.095,
+      "decks": 0.094,
       "avg": 2.2
-    }
-  },
-  "Seeker of the Way": {
-    "cardname": "Seeker of the Way",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.5
     }
   },
   "Skirk Prospector": {
@@ -6903,8 +6892,19 @@
       "avg": 3.2
     },
     "sideboard": {
-      "decks": 0.022,
+      "decks": 0.023,
       "avg": 3.0
+    }
+  },
+  "Standard Bearer": {
+    "cardname": "Standard Bearer",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 1.5
+    },
+    "sideboard": {
+      "decks": 0.042,
+      "avg": 2.1
     }
   },
   "Summon: Fat Chocobo": {
@@ -6973,6 +6973,28 @@
       "avg": 0
     }
   },
+  "Brave the Wilds": {
+    "cardname": "Brave the Wilds",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 3.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Cloakwood Swarmkeeper": {
+    "cardname": "Cloakwood Swarmkeeper",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Culling the Weak": {
     "cardname": "Culling the Weak",
     "mainboard": {
@@ -7000,6 +7022,17 @@
     "mainboard": {
       "decks": 0.001,
       "avg": 1.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Enigma Eidolon": {
+    "cardname": "Enigma Eidolon",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -7094,6 +7127,17 @@
       "avg": 0
     }
   },
+  "Llanowar Visionary": {
+    "cardname": "Llanowar Visionary",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
   "Marauding Blight-Priest": {
     "cardname": "Marauding Blight-Priest",
     "mainboard": {
@@ -7125,6 +7169,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Monstrous Emergence": {
+    "cardname": "Monstrous Emergence",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 2.6
+    },
+    "sideboard": {
+      "decks": 0.049,
+      "avg": 3.5
     }
   },
   "Nightscape Familiar": {
@@ -7200,19 +7255,30 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
-  "Standard Bearer": {
-    "cardname": "Standard Bearer",
+  "Seeker of the Way": {
+    "cardname": "Seeker of the Way",
     "mainboard": {
       "decks": 0.001,
-      "avg": 1.4
+      "avg": 2.4
     },
     "sideboard": {
-      "decks": 0.041,
-      "avg": 2.1
+      "decks": 0.0,
+      "avg": 2.5
+    }
+  },
+  "Shipwreck Sifters": {
+    "cardname": "Shipwreck Sifters",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Steelfin Whale": {
@@ -7231,6 +7297,28 @@
     "mainboard": {
       "decks": 0.001,
       "avg": 2.2
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Vampire Hounds": {
+    "cardname": "Vampire Hounds",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 2.4
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Vision of Love": {
+    "cardname": "Vision of Love",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 2.8
     },
     "sideboard": {
       "decks": 0,
@@ -7270,6 +7358,17 @@
       "avg": 0
     }
   },
+  "Bayou Groff": {
+    "cardname": "Bayou Groff",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 3.8
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Bequeathal": {
     "cardname": "Bequeathal",
     "mainboard": {
@@ -7292,30 +7391,8 @@
       "avg": 0
     }
   },
-  "Brave the Wilds": {
-    "cardname": "Brave the Wilds",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 3.3
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Cathartic Reunion": {
     "cardname": "Cathartic Reunion",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Cloakwood Swarmkeeper": {
-    "cardname": "Cloakwood Swarmkeeper",
     "mainboard": {
       "decks": 0.001,
       "avg": 4.0
@@ -7334,17 +7411,6 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Deftblade Elite": {
-    "cardname": "Deftblade Elite",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.0
     }
   },
   "Devious Cover-Up": {
@@ -7369,15 +7435,15 @@
       "avg": 1.0
     }
   },
-  "Dimir House Guard": {
-    "cardname": "Dimir House Guard",
+  "Dust to Dust": {
+    "cardname": "Dust to Dust",
     "mainboard": {
       "decks": 0.001,
-      "avg": 1.0
+      "avg": 2.8
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.108,
+      "avg": 3.1
     }
   },
   "Elvish Visionary": {
@@ -7391,11 +7457,11 @@
       "avg": 0
     }
   },
-  "Enigma Eidolon": {
-    "cardname": "Enigma Eidolon",
+  "Entropic Eidolon": {
+    "cardname": "Entropic Eidolon",
     "mainboard": {
       "decks": 0.001,
-      "avg": 4.0
+      "avg": 2.5
     },
     "sideboard": {
       "decks": 0,
@@ -7407,6 +7473,17 @@
     "mainboard": {
       "decks": 0.001,
       "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Experiment One": {
+    "cardname": "Experiment One",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -7461,11 +7538,22 @@
     "cardname": "Hinterland Sanctifier",
     "mainboard": {
       "decks": 0.001,
-      "avg": 3.5
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0.001,
       "avg": 3.0
+    }
+  },
+  "Hunger of the Howlpack": {
+    "cardname": "Hunger of the Howlpack",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Illegitimate Business": {
@@ -7530,19 +7618,8 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.7
-    }
-  },
-  "Llanowar Visionary": {
-    "cardname": "Llanowar Visionary",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
+      "decks": 0.003,
+      "avg": 1.8
     }
   },
   "Magmakin Artillerist": {
@@ -7589,22 +7666,22 @@
       "avg": 0
     }
   },
-  "Monstrous Emergence": {
-    "cardname": "Monstrous Emergence",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.3
-    },
-    "sideboard": {
-      "decks": 0.049,
-      "avg": 3.5
-    }
-  },
   "Obsessive Search": {
     "cardname": "Obsessive Search",
     "mainboard": {
       "decks": 0.001,
       "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Oubliette": {
+    "cardname": "Oubliette",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 1.8
     },
     "sideboard": {
       "decks": 0,
@@ -7633,17 +7710,6 @@
       "avg": 0
     }
   },
-  "Shipwreck Sifters": {
-    "cardname": "Shipwreck Sifters",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Shred Memory": {
     "cardname": "Shred Memory",
     "mainboard": {
@@ -7651,8 +7717,8 @@
       "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.3
+      "decks": 0.001,
+      "avg": 1.2
     }
   },
   "Spare Supplies": {
@@ -7666,17 +7732,6 @@
       "avg": 0
     }
   },
-  "Spider Umbra": {
-    "cardname": "Spider Umbra",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 1.8
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 3.3
-    }
-  },
   "Tortured Existence": {
     "cardname": "Tortured Existence",
     "mainboard": {
@@ -7686,17 +7741,6 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Universal Automaton": {
-    "cardname": "Universal Automaton",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 3.5
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
     }
   },
   "Unstable Experiment": {
@@ -7710,33 +7754,11 @@
       "avg": 1.0
     }
   },
-  "Vampire Hounds": {
-    "cardname": "Vampire Hounds",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.5
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Vampire Sovereign": {
     "cardname": "Vampire Sovereign",
     "mainboard": {
       "decks": 0.001,
       "avg": 1.8
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Vision of Love": {
-    "cardname": "Vision of Love",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.8
     },
     "sideboard": {
       "decks": 0,
@@ -7809,15 +7831,15 @@
       "avg": 0
     }
   },
-  "Bayou Groff": {
-    "cardname": "Bayou Groff",
+  "Blighted Agent": {
+    "cardname": "Blighted Agent",
     "mainboard": {
       "decks": 0.001,
-      "avg": 4.0
+      "avg": 3.0
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 3.0
     }
   },
   "Bone Picker": {
@@ -7904,7 +7926,7 @@
       "avg": 2.7
     },
     "sideboard": {
-      "decks": 0.004,
+      "decks": 0.003,
       "avg": 2.1
     }
   },
@@ -7919,11 +7941,33 @@
       "avg": 2.0
     }
   },
+  "Crossover Collaboration": {
+    "cardname": "Crossover Collaboration",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 2.3
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Daru Spiritualist": {
     "cardname": "Daru Spiritualist",
     "mainboard": {
       "decks": 0.001,
       "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Dauthi Slayer": {
+    "cardname": "Dauthi Slayer",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 3.0
     },
     "sideboard": {
       "decks": 0,
@@ -7946,6 +7990,28 @@
     "mainboard": {
       "decks": 0.001,
       "avg": 3.7
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Deftblade Elite": {
+    "cardname": "Deftblade Elite",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.0
+    }
+  },
+  "Dimir House Guard": {
+    "cardname": "Dimir House Guard",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -8007,17 +8073,6 @@
       "avg": 0
     }
   },
-  "Dust to Dust": {
-    "cardname": "Dust to Dust",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.7
-    },
-    "sideboard": {
-      "decks": 0.11,
-      "avg": 3.1
-    }
-  },
   "Dwarven Forge-Chanter": {
     "cardname": "Dwarven Forge-Chanter",
     "mainboard": {
@@ -8040,17 +8095,6 @@
       "avg": 1.5
     }
   },
-  "Entropic Eidolon": {
-    "cardname": "Entropic Eidolon",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 2.7
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Etherium Spinner": {
     "cardname": "Etherium Spinner",
     "mainboard": {
@@ -8071,17 +8115,6 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 2.0
-    }
-  },
-  "Experiment One": {
-    "cardname": "Experiment One",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Forlorn Flats": {
@@ -8135,7 +8168,7 @@
       "avg": 2.3
     },
     "sideboard": {
-      "decks": 0.062,
+      "decks": 0.064,
       "avg": 2.9
     }
   },
@@ -8148,17 +8181,6 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 2.0
-    }
-  },
-  "Hunger of the Howlpack": {
-    "cardname": "Hunger of the Howlpack",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Hunt for Specimens": {
@@ -8180,7 +8202,7 @@
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.4
+      "avg": 1.5
     }
   },
   "Hydroblast": {
@@ -8190,7 +8212,7 @@
       "avg": 2.3
     },
     "sideboard": {
-      "decks": 0.288,
+      "decks": 0.289,
       "avg": 3.2
     }
   },
@@ -8309,17 +8331,6 @@
     "mainboard": {
       "decks": 0.001,
       "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Oubliette": {
-    "cardname": "Oubliette",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 1.7
     },
     "sideboard": {
       "decks": 0,
@@ -8491,6 +8502,17 @@
       "avg": 0
     }
   },
+  "Spider Umbra": {
+    "cardname": "Spider Umbra",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 1.7
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 3.3
+    }
+  },
   "Spire Golem": {
     "cardname": "Spire Golem",
     "mainboard": {
@@ -8568,17 +8590,6 @@
       "avg": 0
     }
   },
-  "Third Path Savant": {
-    "cardname": "Third Path Savant",
-    "mainboard": {
-      "decks": 0.001,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
   "Thriving Bluff": {
     "cardname": "Thriving Bluff",
     "mainboard": {
@@ -8621,6 +8632,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Universal Automaton": {
+    "cardname": "Universal Automaton",
+    "mainboard": {
+      "decks": 0.001,
+      "avg": 3.3
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
     }
   },
   "Vedalken Engineer": {
@@ -8689,22 +8711,22 @@
       "avg": 0
     }
   },
-  "Angelic Gift": {
-    "cardname": "Angelic Gift",
+  "Arcbound Tracker": {
+    "cardname": "Arcbound Tracker",
     "mainboard": {
       "decks": 0.0,
-      "avg": 1.5
+      "avg": 2.0
     },
     "sideboard": {
       "decks": 0,
       "avg": 0
     }
   },
-  "Arcbound Tracker": {
-    "cardname": "Arcbound Tracker",
+  "Architects of Will": {
+    "cardname": "Architects of Will",
     "mainboard": {
       "decks": 0.0,
-      "avg": 2.0
+      "avg": 3.0
     },
     "sideboard": {
       "decks": 0,
@@ -8724,17 +8746,6 @@
   },
   "Ashen-Skin Zubera": {
     "cardname": "Ashen-Skin Zubera",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 3.0
-    }
-  },
-  "Blighted Agent": {
-    "cardname": "Blighted Agent",
     "mainboard": {
       "decks": 0.0,
       "avg": 4.0
@@ -8861,8 +8872,8 @@
       "avg": 2.5
     },
     "sideboard": {
-      "decks": 0,
-      "avg": 0
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Creosote Heath": {
@@ -8870,17 +8881,6 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 3.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Crossover Collaboration": {
-    "cardname": "Crossover Collaboration",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 2.5
     },
     "sideboard": {
       "decks": 0,
@@ -8905,19 +8905,8 @@
       "avg": 2.5
     },
     "sideboard": {
-      "decks": 0.0,
+      "decks": 0.001,
       "avg": 2.0
-    }
-  },
-  "Dauthi Slayer": {
-    "cardname": "Dauthi Slayer",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 3.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
     }
   },
   "Dawn Charm": {
@@ -8971,7 +8960,7 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.006,
+      "decks": 0.007,
       "avg": 1.1
     }
   },
@@ -8988,6 +8977,17 @@
   },
   "Eroded Canyon": {
     "cardname": "Eroded Canyon",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Eureka Moment": {
+    "cardname": "Eureka Moment",
     "mainboard": {
       "decks": 0.0,
       "avg": 2.5
@@ -9028,6 +9028,17 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 1.0
+    }
+  },
+  "Feral Deathgorger": {
+    "cardname": "Feral Deathgorger",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 3.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Firdoch Core": {
@@ -9184,6 +9195,17 @@
       "avg": 0
     }
   },
+  "Hearth Charm": {
+    "cardname": "Hearth Charm",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
   "Hidden Strings": {
     "cardname": "Hidden Strings",
     "mainboard": {
@@ -9250,17 +9272,6 @@
       "avg": 0
     }
   },
-  "Improvised Club": {
-    "cardname": "Improvised Club",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 3.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Keep Watch": {
     "cardname": "Keep Watch",
     "mainboard": {
@@ -9288,6 +9299,17 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 4.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Lonely Arroyo": {
+    "cardname": "Lonely Arroyo",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -9379,7 +9401,7 @@
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.7
+      "avg": 1.8
     }
   },
   "Plated Geopede": {
@@ -9433,7 +9455,7 @@
       "avg": 2.0
     },
     "sideboard": {
-      "decks": 0.291,
+      "decks": 0.292,
       "avg": 3.2
     }
   },
@@ -9453,6 +9475,17 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 1.5
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Repository Skaab": {
+    "cardname": "Repository Skaab",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -9525,17 +9558,6 @@
       "avg": 1.6
     }
   },
-  "Seraph Sanctuary": {
-    "cardname": "Seraph Sanctuary",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 3.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Shadow Alley Denizen": {
     "cardname": "Shadow Alley Denizen",
     "mainboard": {
@@ -9543,8 +9565,19 @@
       "avg": 1.5
     },
     "sideboard": {
-      "decks": 0.0,
+      "decks": 0.001,
       "avg": 1.0
+    }
+  },
+  "Silumgar Scavenger": {
+    "cardname": "Silumgar Scavenger",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Slippery Karst": {
@@ -9655,6 +9688,17 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
+    }
+  },
+  "Third Path Savant": {
+    "cardname": "Third Path Savant",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
     }
   },
   "Thrill of Possibility": {
@@ -9972,34 +10016,23 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.09,
+      "decks": 0.091,
       "avg": 2.0
+    }
+  },
+  "Angelic Gift": {
+    "cardname": "Angelic Gift",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Angelsong": {
     "cardname": "Angelsong",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Architects of Will": {
-    "cardname": "Architects of Will",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Ardenvale Tactician": {
-    "cardname": "Ardenvale Tactician",
     "mainboard": {
       "decks": 0.0,
       "avg": 1.0
@@ -10102,6 +10135,17 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Barrow Naughty": {
+    "cardname": "Barrow Naughty",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
     },
     "sideboard": {
       "decks": 0,
@@ -10278,17 +10322,6 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
-  "Bushwhack": {
-    "cardname": "Bushwhack",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -10768,17 +10801,6 @@
       "avg": 2.0
     }
   },
-  "Eureka Moment": {
-    "cardname": "Eureka Moment",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 4.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Eye of Nowhere": {
     "cardname": "Eye of Nowhere",
     "mainboard": {
@@ -10834,17 +10856,6 @@
       "avg": 1.0
     }
   },
-  "Feral Deathgorger": {
-    "cardname": "Feral Deathgorger",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 3.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Ferocious Werefox": {
     "cardname": "Ferocious Werefox",
     "mainboard": {
@@ -10896,7 +10907,7 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.12,
+      "decks": 0.122,
       "avg": 1.1
     }
   },
@@ -10962,7 +10973,7 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.01,
+      "decks": 0.009,
       "avg": 1.9
     }
   },
@@ -11019,6 +11030,17 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 2.5
+    }
+  },
+  "Go Nuts!": {
+    "cardname": "Go Nuts!",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
     }
   },
   "Gorilla Shaman": {
@@ -11153,6 +11175,17 @@
       "avg": 0
     }
   },
+  "Improvised Club": {
+    "cardname": "Improvised Club",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Incinerate": {
     "cardname": "Incinerate",
     "mainboard": {
@@ -11263,17 +11296,6 @@
       "avg": 0
     }
   },
-  "Lonely Arroyo": {
-    "cardname": "Lonely Arroyo",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Lost Legion": {
     "cardname": "Lost Legion",
     "mainboard": {
@@ -11290,6 +11312,17 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Lymph Sliver": {
+    "cardname": "Lymph Sliver",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 1.0
     },
     "sideboard": {
       "decks": 0,
@@ -11347,7 +11380,7 @@
       "avg": 3.0
     },
     "sideboard": {
-      "decks": 0.024,
+      "decks": 0.023,
       "avg": 3.2
     }
   },
@@ -11483,6 +11516,17 @@
       "avg": 0
     }
   },
+  "Now for Wrath, Now for Ruin!": {
+    "cardname": "Now for Wrath, Now for Ruin!",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Obsidian Acolyte": {
     "cardname": "Obsidian Acolyte",
     "mainboard": {
@@ -11600,8 +11644,8 @@
       "avg": 2.0
     },
     "sideboard": {
-      "decks": 0.002,
-      "avg": 1.6
+      "decks": 0.003,
+      "avg": 1.8
     }
   },
   "Pillage": {
@@ -11857,17 +11901,6 @@
       "avg": 1.5
     }
   },
-  "Repository Skaab": {
-    "cardname": "Repository Skaab",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Reverse Engineer": {
     "cardname": "Reverse Engineer",
     "mainboard": {
@@ -12066,6 +12099,17 @@
       "avg": 0
     }
   },
+  "Selesnya Sanctuary": {
+    "cardname": "Selesnya Sanctuary",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
   "Selfless Cathar": {
     "cardname": "Selfless Cathar",
     "mainboard": {
@@ -12082,6 +12126,17 @@
     "mainboard": {
       "decks": 0.0,
       "avg": 3.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Seraph Sanctuary": {
+    "cardname": "Seraph Sanctuary",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 4.0
     },
     "sideboard": {
       "decks": 0,
@@ -12187,17 +12242,6 @@
       "avg": 0
     }
   },
-  "Silumgar Scavenger": {
-    "cardname": "Silumgar Scavenger",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    },
-    "sideboard": {
-      "decks": 0,
-      "avg": 0
-    }
-  },
   "Silverbeak Griffin": {
     "cardname": "Silverbeak Griffin",
     "mainboard": {
@@ -12271,7 +12315,7 @@
       "avg": 1.0
     },
     "sideboard": {
-      "decks": 0.004,
+      "decks": 0.003,
       "avg": 2.2
     }
   },
@@ -12425,7 +12469,7 @@
       "avg": 3.0
     },
     "sideboard": {
-      "decks": 0.073,
+      "decks": 0.074,
       "avg": 2.4
     }
   },
@@ -12460,17 +12504,6 @@
     "sideboard": {
       "decks": 0,
       "avg": 0
-    }
-  },
-  "Study Break": {
-    "cardname": "Study Break",
-    "mainboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
     }
   },
   "Sunshower Druid": {
@@ -12618,6 +12651,17 @@
   },
   "Triplicate Spirits": {
     "cardname": "Triplicate Spirits",
+    "mainboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    },
+    "sideboard": {
+      "decks": 0,
+      "avg": 0
+    }
+  },
+  "Tumbleweed Rising": {
+    "cardname": "Tumbleweed Rising",
     "mainboard": {
       "decks": 0.0,
       "avg": 2.0
@@ -12887,7 +12931,7 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.09,
+      "decks": 0.091,
       "avg": 2.4
     }
   },
@@ -12909,7 +12953,7 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.017,
+      "decks": 0.016,
       "avg": 2.8
     }
   },
@@ -12942,19 +12986,8 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.012,
+      "decks": 0.013,
       "avg": 1.0
-    }
-  },
-  "Lignify": {
-    "cardname": "Lignify",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.012,
-      "avg": 2.7
     }
   },
   "Raze": {
@@ -12964,7 +12997,7 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.012,
+      "decks": 0.013,
       "avg": 2.8
     }
   },
@@ -12975,8 +13008,19 @@
       "avg": 0
     },
     "sideboard": {
+      "decks": 0.013,
+      "avg": 2.1
+    }
+  },
+  "Lignify": {
+    "cardname": "Lignify",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
       "decks": 0.012,
-      "avg": 2.2
+      "avg": 2.8
     }
   },
   "Flash of Defiance": {
@@ -12987,7 +13031,18 @@
     },
     "sideboard": {
       "decks": 0.012,
-      "avg": 1.4
+      "avg": 1.3
+    }
+  },
+  "Waterbending Lesson": {
+    "cardname": "Waterbending Lesson",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.012,
+      "avg": 1.0
     }
   },
   "Nylea's Disciple": {
@@ -12998,18 +13053,7 @@
     },
     "sideboard": {
       "decks": 0.011,
-      "avg": 2.6
-    }
-  },
-  "Waterbending Lesson": {
-    "cardname": "Waterbending Lesson",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.011,
-      "avg": 1.0
+      "avg": 2.7
     }
   },
   "Hallow": {
@@ -13019,8 +13063,19 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.01,
+      "decks": 0.009,
       "avg": 1.9
+    }
+  },
+  "Circle of Protection: Blue": {
+    "cardname": "Circle of Protection: Blue",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.008,
+      "avg": 1.4
     }
   },
   "Viridian Longbow": {
@@ -13034,17 +13089,6 @@
       "avg": 1.8
     }
   },
-  "Circle of Protection: Blue": {
-    "cardname": "Circle of Protection: Blue",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.008,
-      "avg": 1.5
-    }
-  },
   "Sylvok Lifestaff": {
     "cardname": "Sylvok Lifestaff",
     "mainboard": {
@@ -13053,7 +13097,7 @@
     },
     "sideboard": {
       "decks": 0.008,
-      "avg": 2.0
+      "avg": 1.9
     }
   },
   "Sunlance": {
@@ -13067,17 +13111,6 @@
       "avg": 2.6
     }
   },
-  "Mystic Remora": {
-    "cardname": "Mystic Remora",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.006,
-      "avg": 1.1
-    }
-  },
   "Haunting Misery": {
     "cardname": "Haunting Misery",
     "mainboard": {
@@ -13087,6 +13120,17 @@
     "sideboard": {
       "decks": 0.006,
       "avg": 2.2
+    }
+  },
+  "Mystic Remora": {
+    "cardname": "Mystic Remora",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.006,
+      "avg": 1.1
     }
   },
   "Vampiric Link": {
@@ -13122,8 +13166,8 @@
       "avg": 2.8
     }
   },
-  "Serene Heart": {
-    "cardname": "Serene Heart",
+  "Reverent Silence": {
+    "cardname": "Reverent Silence",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -13133,8 +13177,8 @@
       "avg": 1.9
     }
   },
-  "Reverent Silence": {
-    "cardname": "Reverent Silence",
+  "Serene Heart": {
+    "cardname": "Serene Heart",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -13177,17 +13221,6 @@
       "avg": 1.1
     }
   },
-  "Freewind Falcon": {
-    "cardname": "Freewind Falcon",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.004,
-      "avg": 2.5
-    }
-  },
   "Ashes to Ashes": {
     "cardname": "Ashes to Ashes",
     "mainboard": {
@@ -13199,6 +13232,17 @@
       "avg": 1.3
     }
   },
+  "Freewind Falcon": {
+    "cardname": "Freewind Falcon",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.004,
+      "avg": 2.4
+    }
+  },
   "Lone Missionary": {
     "cardname": "Lone Missionary",
     "mainboard": {
@@ -13206,8 +13250,8 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.004,
-      "avg": 2.1
+      "decks": 0.003,
+      "avg": 1.9
     }
   },
   "Swirling Sandstorm": {
@@ -13217,7 +13261,7 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.004,
+      "decks": 0.003,
       "avg": 1.3
     }
   },
@@ -13232,17 +13276,6 @@
       "avg": 1.0
     }
   },
-  "Circle of Protection: Red": {
-    "cardname": "Circle of Protection: Red",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.003,
-      "avg": 1.9
-    }
-  },
   "Feed the Clan": {
     "cardname": "Feed the Clan",
     "mainboard": {
@@ -13254,6 +13287,17 @@
       "avg": 2.3
     }
   },
+  "Circle of Protection: Red": {
+    "cardname": "Circle of Protection: Red",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.003,
+      "avg": 1.9
+    }
+  },
   "Divest": {
     "cardname": "Divest",
     "mainboard": {
@@ -13261,30 +13305,8 @@
       "avg": 0
     },
     "sideboard": {
-      "decks": 0.003,
-      "avg": 2.3
-    }
-  },
-  "Yip Yip!": {
-    "cardname": "Yip Yip!",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.003,
-      "avg": 1.1
-    }
-  },
-  "Spore Frog": {
-    "cardname": "Spore Frog",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
       "decks": 0.002,
-      "avg": 2.3
+      "avg": 2.1
     }
   },
   "Life Goes On": {
@@ -13295,7 +13317,40 @@
     },
     "sideboard": {
       "decks": 0.002,
-      "avg": 2.8
+      "avg": 2.9
+    }
+  },
+  "Spore Frog": {
+    "cardname": "Spore Frog",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 2.1
+    }
+  },
+  "Yip Yip!": {
+    "cardname": "Yip Yip!",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 1.1
+    }
+  },
+  "Trespasser's Curse": {
+    "cardname": "Trespasser's Curse",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.002,
+      "avg": 2.0
     }
   },
   "Arashin Cleric": {
@@ -13309,15 +13364,15 @@
       "avg": 2.0
     }
   },
-  "Trespasser's Curse": {
-    "cardname": "Trespasser's Curse",
+  "Shrivel": {
+    "cardname": "Shrivel",
     "mainboard": {
       "decks": 0,
       "avg": 0
     },
     "sideboard": {
       "decks": 0.002,
-      "avg": 2.0
+      "avg": 1.9
     }
   },
   "Vandalize": {
@@ -13375,28 +13430,6 @@
       "avg": 2.3
     }
   },
-  "Sandstorm": {
-    "cardname": "Sandstorm",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.7
-    }
-  },
-  "Shrivel": {
-    "cardname": "Shrivel",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.0
-    }
-  },
   "Singe": {
     "cardname": "Singe",
     "mainboard": {
@@ -13408,26 +13441,15 @@
       "avg": 1.3
     }
   },
-  "Staunch Throneguard": {
-    "cardname": "Staunch Throneguard",
+  "Yamabushi's Storm": {
+    "cardname": "Yamabushi's Storm",
     "mainboard": {
       "decks": 0,
       "avg": 0
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.3
-    }
-  },
-  "Aqueous Form": {
-    "cardname": "Aqueous Form",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
+      "avg": 2.0
     }
   },
   "Death Speakers": {
@@ -13485,15 +13507,37 @@
       "avg": 1.0
     }
   },
-  "Yamabushi's Storm": {
-    "cardname": "Yamabushi's Storm",
+  "Sandstorm": {
+    "cardname": "Sandstorm",
     "mainboard": {
       "decks": 0,
       "avg": 0
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 2.0
+      "avg": 1.6
+    }
+  },
+  "Staunch Throneguard": {
+    "cardname": "Staunch Throneguard",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.4
+    }
+  },
+  "Wrap in Vigor": {
+    "cardname": "Wrap in Vigor",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.8
     }
   },
   "Zuko's Exile": {
@@ -13507,6 +13551,17 @@
       "avg": 3.0
     }
   },
+  "Aqueous Form": {
+    "cardname": "Aqueous Form",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
   "Choking Sands": {
     "cardname": "Choking Sands",
     "mainboard": {
@@ -13518,8 +13573,8 @@
       "avg": 3.0
     }
   },
-  "Feed the Swarm": {
-    "cardname": "Feed the Swarm",
+  "Cogwork Wrestler": {
+    "cardname": "Cogwork Wrestler",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -13538,6 +13593,28 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.8
+    }
+  },
+  "It'll Quench Ya!": {
+    "cardname": "It'll Quench Ya!",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.0
+    }
+  },
+  "Natural Obsolescence": {
+    "cardname": "Natural Obsolescence",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.5
     }
   },
   "Natural State": {
@@ -13595,6 +13672,17 @@
       "avg": 1.5
     }
   },
+  "Serrated Arrows": {
+    "cardname": "Serrated Arrows",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 1.8
+    }
+  },
   "Shattering Blow": {
     "cardname": "Shattering Blow",
     "mainboard": {
@@ -13617,17 +13705,6 @@
       "avg": 1.5
     }
   },
-  "Sokka's Sword Training": {
-    "cardname": "Sokka's Sword Training",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.0
-    }
-  },
   "Spare from Evil": {
     "cardname": "Spare from Evil",
     "mainboard": {
@@ -13648,17 +13725,6 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.3
-    }
-  },
-  "Wrap in Vigor": {
-    "cardname": "Wrap in Vigor",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.5
     }
   },
   "Young Wolf": {
@@ -13705,17 +13771,6 @@
       "avg": 1.7
     }
   },
-  "Cogwork Wrestler": {
-    "cardname": "Cogwork Wrestler",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 1.7
-    }
-  },
   "Disenchant": {
     "cardname": "Disenchant",
     "mainboard": {
@@ -13727,8 +13782,8 @@
       "avg": 3.0
     }
   },
-  "Gilded Light": {
-    "cardname": "Gilded Light",
+  "Feed the Swarm": {
+    "cardname": "Feed the Swarm",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -13738,15 +13793,15 @@
       "avg": 1.7
     }
   },
-  "It'll Quench Ya!": {
-    "cardname": "It'll Quench Ya!",
+  "Guardian Naga": {
+    "cardname": "Guardian Naga",
     "mainboard": {
       "decks": 0,
       "avg": 0
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.0
+      "avg": 1.3
     }
   },
   "Magmatic Chasm": {
@@ -13769,17 +13824,6 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.0
-    }
-  },
-  "Natural Obsolescence": {
-    "cardname": "Natural Obsolescence",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.001,
-      "avg": 2.7
     }
   },
   "Nature's Chant": {
@@ -13813,6 +13857,17 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 1.0
+    }
+  },
+  "Overwhelming Remorse": {
+    "cardname": "Overwhelming Remorse",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.001,
+      "avg": 2.0
     }
   },
   "Patrician's Scorn": {
@@ -13870,19 +13925,19 @@
       "avg": 2.3
     }
   },
-  "Serrated Arrows": {
-    "cardname": "Serrated Arrows",
+  "Shattering Pulse": {
+    "cardname": "Shattering Pulse",
     "mainboard": {
       "decks": 0,
       "avg": 0
     },
     "sideboard": {
       "decks": 0.001,
-      "avg": 1.7
+      "avg": 1.0
     }
   },
-  "Shattering Pulse": {
-    "cardname": "Shattering Pulse",
+  "Sokka's Sword Training": {
+    "cardname": "Sokka's Sword Training",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -13923,17 +13978,6 @@
     "sideboard": {
       "decks": 0.001,
       "avg": 2.7
-    }
-  },
-  "Aerial Volley": {
-    "cardname": "Aerial Volley",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
     }
   },
   "Aven Riftwatcher": {
@@ -14046,6 +14090,17 @@
       "avg": 1.0
     }
   },
+  "Gilded Light": {
+    "cardname": "Gilded Light",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.5
+    }
+  },
   "Glorious Decay": {
     "cardname": "Glorious Decay",
     "mainboard": {
@@ -14079,8 +14134,8 @@
       "avg": 1.0
     }
   },
-  "Guardian Naga": {
-    "cardname": "Guardian Naga",
+  "Hindering Touch": {
+    "cardname": "Hindering Touch",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -14156,28 +14211,6 @@
       "avg": 1.5
     }
   },
-  "Out Cold": {
-    "cardname": "Out Cold",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Overwhelming Remorse": {
-    "cardname": "Overwhelming Remorse",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
   "Parapet": {
     "cardname": "Parapet",
     "mainboard": {
@@ -14209,6 +14242,17 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 3.0
+    }
+  },
+  "Seal of Fire": {
+    "cardname": "Seal of Fire",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.5
     }
   },
   "Shattered Wings": {
@@ -14266,6 +14310,17 @@
       "avg": 4.0
     }
   },
+  "Vision Charm": {
+    "cardname": "Vision Charm",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.5
+    }
+  },
   "Webweaver Changeling": {
     "cardname": "Webweaver Changeling",
     "mainboard": {
@@ -14319,6 +14374,17 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 1.0
+    }
+  },
+  "Aerial Volley": {
+    "cardname": "Aerial Volley",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
     }
   },
   "Airship Crash": {
@@ -14739,17 +14805,6 @@
       "avg": 3.0
     }
   },
-  "Hearth Charm": {
-    "cardname": "Hearth Charm",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
   "Hidden Spider": {
     "cardname": "Hidden Spider",
     "mainboard": {
@@ -14763,17 +14818,6 @@
   },
   "Hindering Light": {
     "cardname": "Hindering Light",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 1.0
-    }
-  },
-  "Hindering Touch": {
-    "cardname": "Hindering Touch",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -14818,6 +14862,17 @@
   },
   "Into the Fire": {
     "cardname": "Into the Fire",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 2.0
+    }
+  },
+  "Loathsome Curator": {
+    "cardname": "Loathsome Curator",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -14884,6 +14939,17 @@
   },
   "Oblivion Ring": {
     "cardname": "Oblivion Ring",
+    "mainboard": {
+      "decks": 0,
+      "avg": 0
+    },
+    "sideboard": {
+      "decks": 0.0,
+      "avg": 1.0
+    }
+  },
+  "Out Cold": {
+    "cardname": "Out Cold",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -15005,17 +15071,6 @@
   },
   "Scourge of the Undercity": {
     "cardname": "Scourge of the Undercity",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 3.0
-    }
-  },
-  "Seal of Fire": {
-    "cardname": "Seal of Fire",
     "mainboard": {
       "decks": 0,
       "avg": 0
@@ -15157,17 +15212,6 @@
       "avg": 2.0
     }
   },
-  "Vision Charm": {
-    "cardname": "Vision Charm",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 2.0
-    }
-  },
   "War Squeak": {
     "cardname": "War Squeak",
     "mainboard": {
@@ -15188,17 +15232,6 @@
     "sideboard": {
       "decks": 0.0,
       "avg": 1.0
-    }
-  },
-  "Writhing Necromass": {
-    "cardname": "Writhing Necromass",
-    "mainboard": {
-      "decks": 0,
-      "avg": 0
-    },
-    "sideboard": {
-      "decks": 0.0,
-      "avg": 4.0
     }
   }
 }
