@@ -29,3 +29,20 @@ Features:
 - Sortable columns
 - Per-card Scryfall link
 - Card image hover previews via Scryfall API
+
+## Daily data updates
+
+The `update_topcards.sh` script refreshes all five formats and pushes changed
+JSON files. The scheduled job runs daily at 02:00; its output is appended to
+`update_topcards.log`.
+
+Set up the Python environment expected by the updater with:
+
+```sh
+python3 -m venv /home/rohmce/myenv
+/home/rohmce/myenv/bin/pip install -r /home/rohmce/mtgtop8-topcards/requirements.txt
+```
+
+The updater imports the sibling `mtgtop8_python` package from `/home/rohmce`.
+The environment can be overridden by setting `PYTHON_BIN` when invoking the
+script.
