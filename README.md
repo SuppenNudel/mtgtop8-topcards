@@ -40,9 +40,9 @@ Set up the Python environment expected by the updater with:
 
 ```sh
 python3 -m venv /home/rohmce/myenv
-/home/rohmce/myenv/bin/pip install -r /home/rohmce/mtgtop8-topcards/requirements.txt
+/home/rohmce/myenv/bin/pip install -r ~/mtgtop8-topcards/requirements.txt
 ```
 
-The updater imports the sibling `mtgtop8_python` package from `~`.
+The updater imports the sibling `mtgtop8_python` package from home.
 The environment can be overridden by setting `PYTHON_BIN` when invoking the
 script.
