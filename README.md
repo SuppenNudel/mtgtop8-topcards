@@ -43,6 +43,6 @@ python3 -m venv /home/rohmce/myenv
 /home/rohmce/myenv/bin/pip install -r /home/rohmce/mtgtop8-topcards/requirements.txt
 ```
 
-The updater imports the sibling `mtgtop8_python` package from `/home/rohmce`.
+The updater imports the sibling `mtgtop8_python` package from `~`.
 The environment can be overridden by setting `PYTHON_BIN` when invoking the
 script.
